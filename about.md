@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Gregist
+title: About Me
 permalink: /about/
 ---
 
-Physics, Linux, Poetry.
+*Physics, Linux, Poetry.*

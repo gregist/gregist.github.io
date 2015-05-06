@@ -6,7 +6,7 @@ summary:    this is a test post
 categories: system
 ---
 
-Thank you GitHub. \$$I<3GitHub$$
+Thank you GitHub. \$$\text{I}<3\text{GitHub}$$
 
 and
-$$AdS==CFT$$ is the most beautiful function ever.
+$$AdS==CFT$$ is the most beautiful equation ever.

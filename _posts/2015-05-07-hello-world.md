@@ -8,4 +8,4 @@ categories: system
 
 Thank you Github.
 
-$AdS==CFT$
+$$AdS==CFT$$

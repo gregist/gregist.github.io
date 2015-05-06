@@ -6,6 +6,7 @@ summary:    this is a test post
 categories: system
 ---
 
-Thank you Github.
+Thank you GitHub. \$$I<3GitHub$$
 
-$$AdS==CFT$$
+and
+$$AdS==CFT$$ is the most beautiful function ever.

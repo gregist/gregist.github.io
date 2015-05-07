@@ -14,7 +14,7 @@ And in case you don't already know, $$AdS==CFT$$ is the most beautiful equation 
 
 Here is a test of inline equations, $$23+2=25$$, or display like this,
 
-\$$\langle e^{\int d^d x J(x) \mathcal{O}(x)}\rangle_{QFT}=e^{-S_{bulk}[\phi(x,z)|_{z=0}\rightarrow J(x)]}$$
+$$\langle e^{\int d^d x J(x) \mathcal{O}(x)}\rangle_{QFT}=e^{-S_{bulk}[\phi(x,z)|_{z=0}\rightarrow J(x)]}$$
 
 Good.
 
@@ -22,6 +22,4 @@ The following is a math block:
 
 $$ 5 + 5 $$
 
-But next comes a paragraph with an inline math statement:
-
-\$$ 5 + 5 $$
+But next comes a paragraph with an inline math statement: \$$ 5 + 5 $$

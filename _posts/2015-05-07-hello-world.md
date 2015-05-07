@@ -6,7 +6,7 @@ summary:    this is a test post
 categories: blog
 ---
 
-Thank you Jekyll, Pixyll and GitHub. \$$\text{I}\;<3\;\text{GitHub}$$
+Thank you all, Jekyll, Pixyll and GitHub. \$$\text{I}\;<3\;\text{GitHub}$$
 
 I study Physics, I use Linux and I adore Poetry. So I will mainly blog about these.
 
@@ -18,8 +18,3 @@ $$\langle e^{\int d^d x J(x) \mathcal{O}(x)}\rangle_{QFT}=e^{-S_{bulk}[\phi(x,z)
 
 Good.
 
-The following is a math block:
-
-$$ 5 + 5 $$
-
-But next comes a paragraph with an inline math statement: \$$ 5 + 5 $$

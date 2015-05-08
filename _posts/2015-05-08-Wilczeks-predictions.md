@@ -2,7 +2,7 @@
 layout:     post
 title:      Wilczek's predictions
 date:       2015-05-08 00:00:01
-summary:    
+summary:    Frank Wilczek recently published a paper named "[Physics in 100 years][1]". He made some very insightful/delightful predictions. Here I summarize his main points. 
 categories: blog
 ---
 
@@ -46,9 +46,13 @@ Vistas
 ---
 
 1. Bootstrap engineering.
+
 2. Induced synesthesia.
+
 3. Quantum computing.
+
 4. Expanded identity.
+
 5. Emerging humility.
 
 

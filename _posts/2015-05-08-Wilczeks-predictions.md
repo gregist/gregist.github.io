@@ -1,40 +1,48 @@
+---
+layout:     post
+title:      Wilczek's predictions
+date:       2015-05-08 00:00:01
+summary:    
+categories: blog
+---
+
 Frank Wilczek recently published a paper named "[Physics in 100 years][1]". He made some very insightful/delightful predictions.
 
 Here I summarize his main points:
 
-**Unifications**
+Unifications
 ---
 
 1. Forces
 
-* Verification of the CORE Theory, $$SU(3) \times SU(2) \times U(1) \times SO(3,1)$$.
+    * Verification of the CORE Theory, $$SU(3) \times SU(2) \times U(1) \times SO(3,1)$$.
 
-1. Forces and Substance
+2. Forces and Substance
 
-* Verification and development of SUSY.
+    * Verification and development of SUSY.
 
-1. Space time and Matter
+3. Space time and Matter
 
-* GUT + gravity, i.e. the Holy Grail.
+    * GUT + gravity, i.e. the Holy Grail.
 
-1. Evolution and Origin
+4. Evolution and Origin
 
-* *The fundamental laws will no longer admit arbitrary initial conditions, and will not take the form of evolution equations.*
+    * *The fundamental laws will no longer admit arbitrary initial conditions, and will not take the form of evolution equations.*
 
-1. Action and Information
+5. Action and Information
 
-* Force -> Energy -> Action -> ?
-* Both are dimensionless. Both are important quantities. There must be something deep between the two.
+    * Force -> Energy -> Action -> ?
+    * Both are dimensionless. Both are important quantities. There must be something deep between the two.
 
-1. Quantum and Symmetry
+6. Quantum and Symmetry
 
-* Both admits non-commutativity. Are they two faces of one coin?
+    * Both admits non-commutativity. Are they two faces of one coin?
 
-1. Mind and Matter
+7. Mind and Matter
 
-* I will understand *how I work*.
+    * I will understand *how I work*.
 
-**Vistas**
+Vistas
 ---
 
 1. Bootstrap engineering.

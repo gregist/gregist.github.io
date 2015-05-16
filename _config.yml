@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "http://gregist.github.io"
 
 # Google analytics
-google_analytics:
+google_analytics:UA-63048953-1
 
 # Optional features
 animated:           false

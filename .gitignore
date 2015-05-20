@@ -6,4 +6,4 @@ _site
 _config.gh-pages.yml
 
 # ignore raw file
-.sai
+*.sai

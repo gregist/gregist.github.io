@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      a gloomy fox
+title:      gloomy fox
 date:       2015-05-25 19:15:32
 summary:    
 categories: drawing
 ---
-![a gloomy fox](/images/blog/a-gloomy-fox.png "hug hug")
+![a gloomy fox](/images/blog/gloomy-fox.png "hug hug")

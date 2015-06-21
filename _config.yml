@@ -3,7 +3,7 @@ title:       Gregist
 email:       grigori.sun@gmail.com
 author:      Grigori Sun
 description: "a personal blog"
-baseurl:     "/gh-pages"
+baseurl:     ""
 url:         "http://gregist.github.io"
 
 # Google analytics

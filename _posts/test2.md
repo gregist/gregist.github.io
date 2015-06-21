@@ -3,7 +3,7 @@ layout:     post
 title:      test2
 date:       2015-06-21 21:47:59
 summary:    
-categories: blog
+permalink:  /blog/test2/
 ---
 
 # Hi

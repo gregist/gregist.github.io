@@ -5,4 +5,4 @@ permalink: /blog/
 ---
 
 
-* [test2](/_posts/test2)
+* [some interesting papers](/blog/some-interesting-papers/)

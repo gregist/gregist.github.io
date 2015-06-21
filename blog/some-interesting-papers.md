@@ -1,10 +1,10 @@
 ---
-layout:     post
-title:      some interesting papers
-date:       2015-05-01 22:44:23
-update_date: 2015-06-22 00:42：00
-summary:    
-permalink:  /blog/some-interesting-papers/
+layout:      post
+title:       some interesting papers
+date:        2015-06-21
+update_date: 2015-06-22
+summary:     
+permalink:   /blog/some-interesting-papers/
 ---
 
 Here I list some non-technical papers that I have found very interesting.

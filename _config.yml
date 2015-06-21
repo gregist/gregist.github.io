@@ -3,16 +3,16 @@ title:       Gregist
 email:       grigori.sun@gmail.com
 author:      Grigori Sun
 description: "a personal blog"
-baseurl:     ""
+baseurl:     "/repo-name"
 url:         "http://gregist.github.io"
 
 # Google analytics
 google_analytics: UA-63048953-1
 
 # Optional features
-animated:           false
+animated:           true
 show_related_posts: false
-show_post_footers:  false
+show_post_footers:  true
 
 # Disqus post comments
 # (leave blank to disable Disqus)

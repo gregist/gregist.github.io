@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      some interesting papers
-date:       2015-05-30 22:44:23
+date:       2015-06-21 22:44:23
 summary:    
 categories: writing
 permalink:  /blog/some-interesting-papers/

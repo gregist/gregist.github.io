@@ -4,4 +4,4 @@ title: Logs
 permalink: /blog/
 ---
 
-* [test](/1)
+* [test](/_blog/2015-06-21-test.md)

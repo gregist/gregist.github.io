@@ -4,5 +4,4 @@ title: Logs
 permalink: /blog/
 ---
 
-
-* [some interesting papers](/blog/some-interesting-papers/)
+* [interesting papers (low tech)](/blog/interesting-papers-low-tech/)

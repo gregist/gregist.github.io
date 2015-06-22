@@ -9,7 +9,7 @@ title = raw_input('title: ')
 time=str(datetime.now())
 f = open('_posts/'+urlify(title)+'.md','w')
 
-f.write('---\nlayout:     post\ntitle:      '+title+'\ndate:       '+time[:19]+'\nsummary:    \ncategories: blog\n---\n\n')
+f.write('---\nlayout:      post\ntitle:       '+title+'\ndate:        '+time[:10]+'\nupdate_date: \nsummary:     \npermalink:   /blog/'+urlify(title)+'/\n---\n\n')
 f.close
 
 g = open('blog.md','a')

@@ -4,4 +4,4 @@ title: About Me
 permalink: /about/
 ---
 
-*Physics, Linux, Poetry.*
+*Physics, Painting, Poetry.*

@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      confidence
-date:       2015-06-30 17:06:44
+date:       2015-06-29 17:06:44
 summary:    
 categories: drawing
 ---

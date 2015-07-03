@@ -14,5 +14,5 @@ f.close
 
 g = open('blog.md','a')
 
-g.write('\n'+'* ['+title+'](/'+'_posts/'+urlify(title)+')')
+g.write('\n'+'* ['+title+'](/'+'blog/'+urlify(title)+')')
 g.close

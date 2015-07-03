@@ -6,4 +6,4 @@ permalink: /blog/
 
 * [Interesting papers (low tech)](/blog/interesting-papers-low-tech/)
 
-* [Podcasts I subscribed to](/blog/Podcasts-I-subscribed-to/)
+* [my podcast subscriptions](/blog/my-podcast-subscriptions/)

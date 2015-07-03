@@ -1,20 +1,20 @@
 ---
 layout:      post
-title:       Podcasts I subscribed to
+title:       my podcast subscriptions
 date:        2015-07-03
 update_date: 
 summary:     
-permalink:   /blog/Podcasts-I-subscribed-to/
+permalink:   /blog/my-podcast-subscriptions/
 ---
 
 * [BBC Newshour](http://www.bbc.co.uk/programmes/p002vsnk/episodes/downloads.rss)
 
 ---
 
-* [Freakonomics » Radio](http://feeds.feedburner.com/freakonomicsradio)
+* [Freakonomics Radio](http://feeds.feedburner.com/freakonomicsradio)
 * [More or Less](http://www.bbc.co.uk/programmes/p02nrss1/episodes/downloads.rss)
 
---
+---
 
 * [Nature podcast](http://feeds.nature.com/nature/podcast/current)
 * [Science/AAAS Podcast](http://www.sciencemag.org/rss/podcast.xml)

@@ -13,13 +13,13 @@ google_analytics: UA-63048953-1
 animated:           true
 show_related_posts: false
 show_post_footers:  false
+show_social_icons:  false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
 disqus_shortname: gregist
 
 # Social icons
-show_social_icons: false
 github_username:
 stackoverflow_id:
 twitter_username:
@@ -45,11 +45,12 @@ share_stumbleupon: false
 share_hackernews: false
 
 # Build settings
-# markdown:     redcarpet
-markdown: kramdown
+markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
 paginate:     7
 sass:
   compressed: true
+gems:
+  - jekyll-sitemap

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Logs
-permalink: /blog/
+permalink: /blog2/
 ---
 
 * [interesting papers (low tech)](/blog/interesting-papers-low-tech/)

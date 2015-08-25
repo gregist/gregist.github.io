@@ -8,7 +8,7 @@ permalink: /blog/
 
   {% for page in site.pages %}
     {% if page.categories contains 'blog' %}
-      <a href="{{ page.url | prepend: site.baseurl }}" class="post-link">{{ page.title }}</a>
+      <a href="{{ page.url | prepend: site.baseurl }}" class="post-link">{{ page.title }}</a></br>
     {% endif %}
   {% endfor %}
 

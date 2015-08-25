@@ -56,3 +56,7 @@ permalink:    pretty
 paginate:     7
 sass:
   compressed: true
+
+# Collections
+collections: 
+- blog

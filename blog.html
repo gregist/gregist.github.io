@@ -6,6 +6,23 @@ permalink: /blog/
 
 <div class="posts">
   {% for post in site.categories.[blog] %}
+    <p>hold!1</p>
+  {% endfor %}
+
+  {% for post in site.categories[blog] %}
+    <p>hold!2</p>
+  {% endfor %}
+
+  {% for post in site.categories.[drawing] %}
+    <p>hold!3</p>
+  {% endfor %}
+
+  {% for post in site.categories.drawing %}
+    <p>hold!4</p>
+  {% endfor %}
+
+</div>
+<!-- 
     <div class="post py3">
       <p class="post-meta">{{ post.date | date: site.date_format }}</p>
       <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
@@ -16,10 +33,7 @@ permalink: /blog/
           {{ post.excerpt }}
         {% endif %}
       </p>
-    </div>
-  {% endfor %}
-</div>
-
+    </div> -->
 <!-- <div class="posts">
   {% for posts in site.categories.blog %}
     {% for post in posts %}

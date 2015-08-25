@@ -8,12 +8,7 @@ permalink: /blog/
 
   {% for page in site.pages %}
     {% if page.categories contains 'blog' %}
-
-      <div class="post py3">
-        <p class="post-meta">{{ page.date | date: site.date_format }}</p>
-        <a href="{{ page.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ page.title }}</h3></a>
-      </div>
-
+      <a href="{{ page.url | prepend: site.baseurl }}" class="post-link">{{ page.title }}</a>
     {% endif %}
   {% endfor %}
 

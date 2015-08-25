@@ -1,6 +1,6 @@
 ---
 layout:      post
-title:       interesting papers (low-tech)
+title:       Interesting Papers (low-tech)
 date:        2015-06-21
 update_date: 2015-06-22
 summary:     

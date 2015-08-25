@@ -6,8 +6,13 @@ permalink: /blog/
 
 <div class="posts">
 
-  {% for page in site.categories.blog %}
-    <p>hold!4</p>
+  {% for page in site.pages %}
+    {% if page.categories contains 'blog' %}
+      <div class="item">
+        <h3>{{page.title}}</h3>
+        <p>{{page.description}}</p>  
+      </div>
+    {% endif %}
   {% endfor %}
 
 </div>

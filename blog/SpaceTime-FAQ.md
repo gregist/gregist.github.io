@@ -5,6 +5,7 @@ date:        2015-08-12
 update_date: 
 summary:     
 permalink:   /blog/Spacetime-FAQ/
+categories:  blog
 ---
 
 * What is spacetime?  

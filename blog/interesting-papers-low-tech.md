@@ -4,8 +4,8 @@ title:       interesting papers (low-tech)
 date:        2015-06-21
 update_date: 2015-06-22
 summary:     
-permalink:   /blog/interesting-papers-low-tech/
 categories:  blog
+permalink:   /blog/interesting-papers-low-tech/
 ---
 
 Here I list some non-technical papers that I have found very interesting.

@@ -4,8 +4,8 @@ title:       Spacetime FAQ
 date:        2015-08-12
 update_date: 
 summary:     
-permalink:   /blog/Spacetime-FAQ/
 categories:  blog
+permalink:   /blog/Spacetime-FAQ/
 ---
 
 * What is spacetime?  

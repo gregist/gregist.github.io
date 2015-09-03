@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Thanks...
+title: Thanks
 permalink: /thanks/
 ---
-...  
-...  
+  
+  
 *My Gratitude. Perhaps Not.*

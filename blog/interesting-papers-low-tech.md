@@ -8,7 +8,7 @@ categories:  blog
 permalink:   /blog/interesting-papers-low-tech/
 ---
 
-Here I list some non-technical papers that I have found very interesting to read.
+Here I list some low-technical papers that are nonetheless intersting.
 
 * [[hep-ph/0201222] Four Big Questions with Pretty Good Answers](http://arxiv.org/abs/hep-ph/0201222)  
 

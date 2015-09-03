@@ -8,3 +8,4 @@ _config.gh-pages.yml
 # ignore raw file
 *.sai
 *.png~
+*~

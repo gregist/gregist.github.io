@@ -2,7 +2,7 @@
 layout:      post
 title:       Twitter Userstyle
 date:        2015-09-05
-update_date: 
+update_date: 2015-09-06
 summary:     
 categories:  blog
 permalink:   /blog/Twitter-Userstyle/

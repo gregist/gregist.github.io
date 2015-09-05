@@ -61,7 +61,8 @@ permalink:   /blog/Twitter-Userstyle/
 
 features:
 
-* hide redundant modules
-* full width timeline
+* no redundant modules
+* fixed width timelines
 * full height images
-* other minor fixes
+* other minor tweaks
+

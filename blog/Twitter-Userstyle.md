@@ -64,3 +64,4 @@ features:
 * hide redundant modules
 * full width timeline
 * full height images
+* other minor fixes

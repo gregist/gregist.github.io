@@ -8,14 +8,25 @@ categories:  blog
 permalink:   /blog/Twitter-Userstyle/
 ---
 
-
 	@-moz-document domain("twitter.com") {
-		.dashboard,
-		.content-main {
-			width: auto !important;
-			float: none !important;
+		div#page-container.wrapper {
+			width: 997px !important;
 		}
-
+		
+		.dashboard,
+		.content-main,
+		.u-lg-size2of3 {
+			width: 811px !important;
+		}
+		
+		.topbar {
+			position: absolute;
+		}
+		
+		.ScrollBump,
+		.PhotoRail,
+		div.component:nth-child(3),
+		.WhoToFollow.is-visible,
 		.wtf-module,
 		.trends,
 		.site-footer,
@@ -25,7 +36,6 @@ permalink:   /blog/Twitter-Userstyle/
 		.stream-item-footer a.details,
 		.module.DashboardProfileCard,
 		.js-nav-links,
-		div.component:nth-child(3),
 		.stream-item-footer a.details,
 		.media-not-displayed {
 			display: none !important;
@@ -34,7 +44,7 @@ permalink:   /blog/Twitter-Userstyle/
 		.cards-base img, 
 		.permalink-tweet div.tweet-media img, 
 		div.tweet-media .cards-base img {
-			max-width: 53%;
+			max-width: 809px;
 		}
 		
 		.TwitterPhoto-media,
@@ -51,7 +61,6 @@ permalink:   /blog/Twitter-Userstyle/
 
 features:
 
-* disable image cropping
 * hide redundant modules
 * full width timeline
-* half width img
+* full height images

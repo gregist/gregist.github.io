@@ -42,18 +42,22 @@ sublime_text 3:
 
 to launch: `subl`   
 
-### Web Browser
-
-Firefox aurora channel:
-
-	aar ppa:ubuntu-mozilla-daily/firefox-aurora; agu
-
 ### Git
 
 	agi git
 	s git config --global user.name "YOUR NAME"
 	s git config --global user.email "YOUR EMAIL ADDRESS"
 	s git config credential.helper store
+
+### Web Browser
+
+Firefox aurora:
+
+	aar ppa:ubuntu-mozilla-daily/firefox-aurora; agu
+
+Vimperator.xpi:
+
+	s git clone https://github.com/vimperator/vimperator-labs; cd vimperator-labs; s make xpi; s mv downloads/vimperator*.xpi ~/Vimperator.xpi; cd ..; s rm -r vimperator-labs
 
 ### Proxies
 

@@ -57,7 +57,7 @@ Firefox aurora:
 
 Vimperator.xpi:
 
-	s git clone https://github.com/vimperator/vimperator-labs; cd vimperator-labs; s make xpi; s mv downloads/vimperator*.xpi ~/Vimperator.xpi; cd ..; s rm -r vimperator-labs
+	s git clone https://github.com/vimperator/vimperator-labs; cd vimperator-labs; s make xpi; s mv downloads/vimperator*.xpi ~/Vimperator.xpi; cd ..; s rm -r vimperator-labs; firefox ~/Vimperator.xpi
 
 ### Proxies
 

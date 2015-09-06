@@ -13,7 +13,7 @@ permalink:   /blog/Twitter-Userstyle/
 			width: 997px !important;
 		}
 		
-		.dashboard,
+		.GridTimeline,
 		.content-main,
 		.u-lg-size2of3 {
 			width: 811px !important;

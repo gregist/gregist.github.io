@@ -36,11 +36,11 @@ Here are some of my favorite Ubuntu customizations.
 
 ### Text Editor
 
-sublime_text 3:
+* sublime_text 3:
 
-	aar ppa:webup8team/sublime-text-3; agu; agi sublime-text-installer
+	`aar ppa:webup8team/sublime-text-3; agu; agi sublime-text-installer`
 
-to launch: `subl`   
+	to launch: `subl`   
 
 ### Git
 
@@ -51,13 +51,13 @@ to launch: `subl`
 
 ### Web Browser
 
-Firefox aurora:
+* Firefox aurora:
 
-	aar ppa:ubuntu-mozilla-daily/firefox-aurora; agu
+	`aar ppa:ubuntu-mozilla-daily/firefox-aurora; agu`
 
-Vimperator.xpi:
+* Vimperator.xpi:
 
-	s git clone https://github.com/vimperator/vimperator-labs; cd vimperator-labs; s make xpi; s mv downloads/vimperator*.xpi ~/Vimperator.xpi; cd ..; s rm -r vimperator-labs; firefox ~/Vimperator.xpi
+	`s git clone https://github.com/vimperator/vimperator-labs; cd vimperator-labs; s make xpi; s mv downloads/vimperator*.xpi ~/Vimperator.xpi; cd ..; s rm -r vimperator-labs; firefox ~/Vimperator.xpi`
 
 ### Proxies
 

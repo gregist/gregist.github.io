@@ -10,77 +10,71 @@ permalink:   /blog/Ubuntu-Customization/
 
 Here are some of my favorite Ubuntu customizations.
 
-* Aliases
+### Aliases
 
-> `sudo gedit ~/.bash_aliases`, add:
+`sudo gedit ~/.bash_aliases`, add:
 
-	alias agi = 'sudo apt-get install'
-	alias agr = 'sudo apt-get remove'
-	alias agu = 'sudo apt-get update; sudo apt-get upgrade; sudo apt-get dist-upgrade; sudo apt-get autoremove'
-	alias aar = 'sudo apt-add-repository'
+	alias agi='sudo apt-get install'
+	alias agr='sudo apt-get remove'
+	alias agu='sudo apt-get update; sudo apt-get upgrade; sudo apt-get dist-upgrade; sudo apt-get autoremove'
+	alias aar='sudo apt-add-repository'
 
-	alias e = 'exit'
-	alias s = 'sudo'
-	alias shutdown = 'sudo shutdown -h now'
-	alias restart = 'sudo shutdown -r now'
+	alias e='exit'
+	alias s='sudo'
+	alias ..='cd ..'
+	alias shutdown='sudo shutdown -h now'
+	alias restart='sudo shutdown -r now'
 
-* atom
-```
-sudo add-apt-repository ppa:webupd8team/atom; sudo apt-get update; sudo apt-get install atom
-```
+	alias ppi='sudo pip install'
 
-* firefox aurora
+	alias sba='sudo subl ~/.bash_aliases'
 
-```
-aar ppa:ubuntu-mozilla-daily/firefox-aurora; agu
-```
+	alias proxy_on='export http_proxy=http://127.0.0.1:8787; export https_proxy=$http_proxy; echo proxy_on'
+	alias proxy_off='unset http_proxy; unset https_proxy; echo proxy_off'
+	alias my_ip='curl -s icanhazip.com'
 
-* proxy
+### Text Editor
 
-shadowsocks-qt5
+sublime_text 3:
 
-```
-sudo add-apt-repository ppa:hzwhuang/ss-qt5; sudo apt-get update; sudo apt-get install shadowsocks-qt5
-```
+	aar ppa:webup8team/sublime-text-3; agu; agi sublime-text-installer
 
-lantern
-```
-wget https://s3.amazonaws.com/lantern/lantern-installer-beta-64-bit.deb; sudo dpkg -i lantern-installer-beta-64-bit.deb; rm lantern-installer-beta-64-bit.deb
-```
+to launch: `subl`   
 
+### Web Browser
 
-* git
+Firefox aurora channel:
 
-```
-agi git
-git config --global user.name "YOUR NAME"
-git config --global user.email "YOUR EMAIL ADDRESS"
-git config credential.helper store
-```
-via proxy:
-```
-git config --global http.proxy http://127.0.0.1:8787; git config --global https.proxy https://127.0.0.1:8787
-```
-to unset:
-```
-git config --global --unset http.proxy; git config --global --unset https.proxy
-```
-* Glances
+	aar ppa:ubuntu-mozilla-daily/firefox-aurora; agu
 
-```
-agi python-pip
-sudo pip install Glances
-sudo pip install PySensors
-```
+### Git
 
-* Brackets
+	agi git
+	s git config --global user.name "YOUR NAME"
+	s git config --global user.email "YOUR EMAIL ADDRESS"
+	s git config credential.helper store
 
-```
-aar ppa:webupd8team/brackets; agi brackets
-```
+### Proxies
 
-* thefuck
+* [shadowsocks-qt5](https://github.com/librehat/shadowsocks-qt5)
 
-```
-wget -O - https://raw.githubusercontent.com/nvbn/thefuck/master/install.sh | sh - && $0
-```
+	`aar ppa:hzwhuang/ss-qt5; agu; agi shadowsocks-qt5`
+
+* [lantern](https://getlantern.org/)
+
+	`wget https://s3.amazonaws.com/lantern/lantern-installer-beta-64-bit.deb; sudo dpkg -i lantern-installer-beta-64-bit.deb; rm lantern-installer-beta-64-bit.deb`
+
+### Other Packages
+	
+* [glances](https://github.com/nicolargo/glances)
+
+	`agi python-pip; agi python-dev; ppi glances`
+
+* [htop](https://github.com/hishamhm/htop)
+	
+	`agi htop`
+
+* [thefuck](https://github.com/nvbn/thefuck)
+
+	`wget -O - https://raw.githubusercontent.com/nvbn/thefuck/master/install.sh | sh - && $0`
+

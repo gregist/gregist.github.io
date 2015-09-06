@@ -26,6 +26,7 @@ Here are some of my favorite Ubuntu customizations.
 	alias restart='sudo shutdown -r now'
 
 	alias ppi='sudo pip install'
+	alias zouni='sudo git add .; sudo git commit -a -m rev; sudo git push'
 
 	alias sba='sudo subl ~/.bash_aliases'
 

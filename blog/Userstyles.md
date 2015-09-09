@@ -1,12 +1,14 @@
 ---
 layout:      post
-title:       Twitter Userstyle
+title:       Userstyles
 date:        2015-09-05
 update_date: 2015-09-06
 summary:     
 categories:  blog
-permalink:   /blog/Twitter-Userstyle/
+permalink:   /blog/Userstyles/
 ---
+
+### Twitter:
 
 	@-moz-document domain("twitter.com") {
 		div#page-container.wrapper {
@@ -58,11 +60,10 @@ permalink:   /blog/Twitter-Userstyle/
 		}
 	}
 
+### about:reader
 
-features:
-
-* no redundant modules
-* fixed width timelines
-* full height images
-* other minor tweaks
-
+	@-moz-document url-prefix("about:reader") {
+		#container {
+			max-width: 701px !important;
+		}
+	}

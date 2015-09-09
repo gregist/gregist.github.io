@@ -8,7 +8,7 @@ categories:  blog
 permalink:   /blog/Userstyles/
 ---
 
-### Twitter:
+### Twitter
 
 	@-moz-document domain("twitter.com") {
 		div#page-container.wrapper {

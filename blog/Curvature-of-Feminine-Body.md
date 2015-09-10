@@ -34,6 +34,7 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 * Female nude
 ![](http://uploads2.wikiart.org/images/francesco-hayez/female-nude-1859.jpg)
  -->
+
 ## Joseph-Marie Vien
 
 * Greek Woman at the Bath

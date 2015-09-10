@@ -8,6 +8,6 @@ categories:  blog
 permalink:   /blog/Curvature-of-Feminine-Body/
 ---
 
-#### eyvind earle: rain shower
+### Eyvind Earle: Rain Shower
 
-![](/nude/[eyvind-earle]rain-shower.jpg)
+![](/nude/eyvind-earle-rain-shower.jpg)

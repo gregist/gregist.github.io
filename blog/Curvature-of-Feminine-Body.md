@@ -10,4 +10,4 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 
 ### Eyvind Earle: Rain Shower
 
-![](/nude/eyvind-earle-rain-shower.jpg)
+![](/images/nude/eyvind-earle-rain-shower.jpg)

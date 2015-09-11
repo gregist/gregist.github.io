@@ -8,6 +8,11 @@ categories:  blog
 permalink:   /blog/Curvature-of-Feminine-Body/
 ---
 
+## William-Adolphe Bouguereau
+
+* Biblis (1884)
+![](http://uploads3.wikiart.org/images/william-adolphe-bouguereau/biblis.jpg)
+
 ## Eyvind Earle
 
 * Rain Shower (1986)
@@ -17,6 +22,11 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 
 * Back View of a bather (1859)
 ![](http://uploads3.wikiart.org/images/francesco-hayez/back-view-of-a-bather-1859.jpg)
+
+## Rene Magritte
+
+* Reclining nude (1925)
+![](http://uploads6.wikiart.org/images/rene-magritte/reclining-nude-1925(1).jpg)
 
 ## Amedeo Modigliani
 
@@ -32,3 +42,4 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 
 * Women bathing at the brook (1848)
 ![](http://uploads5.wikiart.org/images/ferdinand-georg-waldm-ller/women-bathing-at-the-brook.jpg)
+

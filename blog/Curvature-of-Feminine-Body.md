@@ -23,6 +23,9 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 * Modern Magdalen (1888)
 ![](http://uploads7.wikiart.org/images/william-merritt-chase/modern-magdalen.jpg)
 
+* Nude Recumbent (1888)
+![](http://uploads6.wikiart.org/images/william-merritt-chase/nude-recumbent.jpg)
+
 ## Eyvind Earle
 
 * Rain Shower (1986)

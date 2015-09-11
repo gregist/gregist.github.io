@@ -18,6 +18,11 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 * Back View of a bather (1859)
 ![](http://uploads3.wikiart.org/images/francesco-hayez/back-view-of-a-bather-1859.jpg)
 
+## Amedeo Modigliani
+
+* Large Seated nude (1918)
+![](http://uploads5.wikiart.org/images/amedeo-modigliani/large-seated-nude.jpg)
+
 ## Félix Vallotton
 
 * Woman with maid bathing (1896)

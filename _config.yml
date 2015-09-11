@@ -20,7 +20,8 @@ ajaxify_contact_form: true
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname: gregist
+# disqus_shortname: gregist
+disqus_shortname:
 
 # Social icons
 github_username:

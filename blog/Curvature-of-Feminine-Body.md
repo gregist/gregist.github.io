@@ -18,7 +18,7 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 * Biblis (1884)
 ![](http://uploads3.wikiart.org/images/william-adolphe-bouguereau/biblis.jpg)
 
-# William Merritt Chase
+## William Merritt Chase
 
 * Modern Magdalen (1888)
 ![](http://uploads7.wikiart.org/images/william-merritt-chase/modern-magdalen.jpg)

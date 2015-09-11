@@ -23,9 +23,6 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 * Modern Magdalen (1888)
 ![](http://uploads7.wikiart.org/images/william-merritt-chase/modern-magdalen.jpg)
 
-* Nude Recumbent (1888)
-![](http://uploads6.wikiart.org/images/william-merritt-chase/nude-recumbent.jpg)
-
 ## Eyvind Earle
 
 * Rain Shower (1986)
@@ -46,10 +43,11 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 * Large Seated nude (1918)
 ![](http://uploads5.wikiart.org/images/amedeo-modigliani/large-seated-nude.jpg)
 
-## Nicolae Tonitza
+<!-- ## Nicolae Tonitza
 
 * Nude in the Thalamus (1927?)
 ![](http://uploads6.wikiart.org/images/nicolae-tonitza/nude-in-the-thalamus.jpg)
+ -->
 
 ## Félix Vallotton
 

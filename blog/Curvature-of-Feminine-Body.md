@@ -2,16 +2,21 @@
 layout:      post
 title:       Curvature of Feminine Body
 date:        2015-09-10
-update_date: 2015-09-11
+update_date: 2015-09-13
 summary:     
 categories:  blog
 permalink:   /blog/Curvature-of-Feminine-Body/
 ---
 
+## Lawrence Alma-Tadema
+
+* [A sculptor's Model (1877)]((https://commons.wikimedia.org/wiki/File:A_Sculptors_Model.jpg))
+![](https://upload.wikimedia.org/wikipedia/commons/0/0d/A_Sculptors_Model.jpg)
+
 ## Eugene de Blaas
 
-* In the water (1914)
-![](http://uploads7.wikiart.org/images/eugene-de-blaas/in-the-water.jpg)
+* [In the water (1914)](https://commons.wikimedia.org/wiki/File:Eugene_de_Blaas_In_the_water.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/d/d9/Eugene_de_Blaas_In_the_water.jpg)
 
 ## William-Adolphe Bouguereau
 
@@ -22,6 +27,11 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 
 * Modern Magdalen (1888)
 ![](http://uploads7.wikiart.org/images/william-merritt-chase/modern-magdalen.jpg)
+
+## John Collier
+
+* Lady Godiva (1898)
+![](https://upload.wikimedia.org/wikipedia/commons/0/0c/Lady_Godiva_(John_Collier,_c._1897).jpg)
 
 ## Eyvind Earle
 

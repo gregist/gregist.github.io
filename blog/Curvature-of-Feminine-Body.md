@@ -45,7 +45,7 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 
 ## Jean Auguste Dominique Ingres
 
-* [Grande Odalisque (1814)](https://commons.wikimedia.org/wiki/File:Ingre,_Grande_Odalisque.jpg)
+* [Grande Odalisque (1814)](https://commons.wikimedia.org/wiki/File:Ingre,_Grande_Odalisque.jpg)  
 ![](https://upload.wikimedia.org/wikipedia/commons/d/df/Ingre,_Grande_Odalisque.jpg)
 
 ## Rene Magritte
@@ -60,7 +60,7 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 
 ## Pablo Picasso
 
-* [Blue Nude (1902)](http://www.pablopicasso.org/blue-nude.jsp)
+* [Blue Nude (1902)](http://www.pablopicasso.org/blue-nude.jsp)  
 ![](http://www.pablopicasso.org/images/paintings/blue-nude.jpg)
 
 ## Félix Vallotton

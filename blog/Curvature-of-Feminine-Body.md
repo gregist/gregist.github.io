@@ -43,6 +43,11 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 * [Susanna at her Bath (1859)](https://commons.wikimedia.org/wiki/File:Francesco_Hayez_054.jpg)  
 ![](https://upload.wikimedia.org/wikipedia/commons/f/fb/Francesco_Hayez_054.jpg)
 
+## Jean Augueste Dominique Ingres
+
+* [The Grand Odalisque (1814)](https://commons.wikimedia.org/wiki/File:Ingre,_Grande_Odalisque.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/d/df/Ingre,_Grande_Odalisque.jpg)
+
 ## Rene Magritte
 
 * [Reclining nude (1925)](http://www.wikiart.org/en/rene-magritte/reclining-nude-1925)  

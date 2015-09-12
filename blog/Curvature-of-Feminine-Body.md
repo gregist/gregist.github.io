@@ -58,6 +58,11 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 * [Nude Sitting on a Divan (1917)](https://commons.wikimedia.org/wiki/File:Amedeo_Modigliani_063.jpg)  
 ![](https://upload.wikimedia.org/wikipedia/commons/c/cc/Amedeo_Modigliani_063.jpg)
 
+## Pablo Picasso
+
+* [Blue Nude (1902)](http://www.pablopicasso.org/blue-nude.jsp)
+![](http://www.pablopicasso.org/images/paintings/blue-nude.jpg)
+
 ## Félix Vallotton
 
 * [Frau mit Dienstmagd beim Baden (1896)](https://commons.wikimedia.org/wiki/File:Valloton_Frau_mit_Dienstmagd_beim_Baden.jpg)  

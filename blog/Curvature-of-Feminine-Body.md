@@ -40,8 +40,8 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 
 ## Francesco Hayez
 
-* [Susanna at her Bath (1859)](https://commons.wikimedia.org/wiki/File:Francesco_Hayez_054.jpg)  
-![](https://upload.wikimedia.org/wikipedia/commons/f/fb/Francesco_Hayez_054.jpg)
+* [Weiblicher Akt (1859)](https://commons.wikimedia.org/wiki/File:Francesco_Hayez_060.jpg)  
+![](https://upload.wikimedia.org/wikipedia/commons/8/88/Francesco_Hayez_060.jpg)
 
 ## Jean Auguste Dominique Ingres
 

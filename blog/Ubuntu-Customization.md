@@ -2,13 +2,13 @@
 layout:      post
 title:       Ubuntu Customization
 date:        2015-09-06
-update_date: 
+update_date: 2015-09-14
 summary:     
 categories:  blog
 permalink:   /blog/Ubuntu-Customization/
 ---
 
-Here are some of my favorite Ubuntu customizations.
+Here are some of my favorite Ubuntu tweaks.
 
 ### Aliases
 
@@ -19,6 +19,7 @@ Here are some of my favorite Ubuntu customizations.
 	alias agu='sudo apt-get update; sudo apt-get upgrade; sudo apt-get dist-upgrade; sudo apt-get autoremove'
 	alias aar='sudo apt-add-repository'
 
+	alias c='clear'
 	alias e='exit'
 	alias s='sudo'
 	alias ..='cd ..'
@@ -27,14 +28,19 @@ Here are some of my favorite Ubuntu customizations.
 
 	alias ppi='sudo pip install'
 	alias zouni='sudo git add .; sudo git commit -a -m rev; sudo git push'
+	alias gp='sudo git pull'
+	alias ga='sudo git add .'
+	alias gc='sudo git commit -a -m'
+	alias gpu='sudo git push'
 
-	alias sba='sudo subl ~/.bash_aliases'
+	alias aliases='sudo subl ~/.bash_aliases'
 
 	alias proxy_on='export http_proxy=http://127.0.0.1:8787; export https_proxy=$http_proxy; echo proxy_on'
 	alias proxy_off='unset http_proxy; unset https_proxy; echo proxy_off'
 	alias my_ip='curl -s icanhazip.com'
+	alias no_proxy='sudo gsettings set org.gnome.system.proxy mode 'none''
 
-### Text Editor
+### Text Editors
 
 * sublime_text 3:
 
@@ -49,7 +55,7 @@ Here are some of my favorite Ubuntu customizations.
 	s git config --global user.email "YOUR EMAIL ADDRESS"
 	s git config credential.helper store
 
-### Web Browser
+### Web Browsers
 
 * Firefox aurora:
 
@@ -78,6 +84,10 @@ Here are some of my favorite Ubuntu customizations.
 * [htop](https://github.com/hishamhm/htop)
 	
 	`agi htop`
+
+* [jdownloader2](http://jdownloader.org/)
+	
+	`wget http://installer.jdownloader.org/JD2SilentSetup_x64.sh; chmod +x JD2SilentSetup*.sh; ./JD2SilentSetup*.sh`
 
 * [thefuck](https://github.com/nvbn/thefuck)
 

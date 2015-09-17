@@ -8,7 +8,8 @@ url:         "http://gregist.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
-google_analytics: UA-63048953-1
+google_analytics:
+# UA-63048953-1
 google_verification:
 
 # Optional features

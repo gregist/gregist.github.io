@@ -20,8 +20,8 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 
 ## William-Adolphe Bouguereau
 
-* [Nymphs and Satyr (1873)](https://commons.wikimedia.org/wiki/File:Nymphs_and_Satyr,_by_William-Adolphe_Bouguereau.jpg)  
-![](https://upload.wikimedia.org/wikipedia/commons/3/32/Nymphs_and_Satyr,_by_William-Adolphe_Bouguereau.jpg)
+<!-- * [Nymphs and Satyr (1873)](https://commons.wikimedia.org/wiki/File:Nymphs_and_Satyr,_by_William-Adolphe_Bouguereau.jpg)  
+![](https://upload.wikimedia.org/wikipedia/commons/3/32/Nymphs_and_Satyr,_by_William-Adolphe_Bouguereau.jpg) -->
 
 * [The Nymphaeum (1878)](https://commons.wikimedia.org/wiki/File:William-Adolphe_Bouguereau_(1825-1905)_-_The_Nymphaeum_(1878).jpg)  
 ![](https://upload.wikimedia.org/wikipedia/commons/8/81/William-Adolphe_Bouguereau_(1825-1905)_-_The_Nymphaeum_(1878).jpg)
@@ -74,10 +74,10 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 * [Blue Nude (1902)](http://www.pablopicasso.org/blue-nude.jsp)  
 ![](http://www.pablopicasso.org/images/paintings/blue-nude.jpg)
 
-## Henrietta Rae
+<!-- ## Henrietta Rae
 
 * [Hylas and the Water Nymphs (1909)](https://commons.wikimedia.org/wiki/File:Rae_-_Water_Nymphs_(color).png)  
-![](https://upload.wikimedia.org/wikipedia/commons/9/93/Rae_-_Water_Nymphs_(color).png)
+![](https://upload.wikimedia.org/wikipedia/commons/9/93/Rae_-_Water_Nymphs_(color).png) -->
 
 ## George Romney
 
@@ -96,6 +96,6 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 
 ## John William Waterhouse
 
-* [Hylas and the Nymphs(1896)](https://commons.wikimedia.org/wiki/File:Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg)  
+* [Hylas and the Nymphs (1896)](https://commons.wikimedia.org/wiki/File:Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg)  
 ![](https://upload.wikimedia.org/wikipedia/commons/b/bd/Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg)
 

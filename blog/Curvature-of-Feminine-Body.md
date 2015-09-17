@@ -2,7 +2,7 @@
 layout:      post
 title:       Curvature of Feminine Body
 date:        2015-09-10
-update_date: 2015-09-13
+update_date: 2015-09-17
 summary:     
 categories:  blog
 permalink:   /blog/Curvature-of-Feminine-Body/
@@ -19,6 +19,12 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d9/Eugene_de_Blaas_In_the_water.jpg)
 
 ## William-Adolphe Bouguereau
+
+* [Nymphs and Satyr (1873)](https://commons.wikimedia.org/wiki/File:Nymphs_and_Satyr,_by_William-Adolphe_Bouguereau.jpg)  
+![](https://upload.wikimedia.org/wikipedia/commons/3/32/Nymphs_and_Satyr,_by_William-Adolphe_Bouguereau.jpg)
+
+* [The Nymphaeum (1878)](https://commons.wikimedia.org/wiki/File:William-Adolphe_Bouguereau_(1825-1905)_-_The_Nymphaeum_(1878).jpg)  
+![](https://upload.wikimedia.org/wikipedia/commons/8/81/William-Adolphe_Bouguereau_(1825-1905)_-_The_Nymphaeum_(1878).jpg)
 
 * [Biblis (1884)](https://commons.wikimedia.org/wiki/File:William-Adolphe_Bouguereau_(1825-1905)_-_Biblis_(1884).jpg)  
 ![](https://upload.wikimedia.org/wikipedia/commons/a/a1/William-Adolphe_Bouguereau_(1825-1905)_-_Biblis_(1884).jpg)
@@ -48,6 +54,11 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 * [Grande Odalisque (1814)](https://commons.wikimedia.org/wiki/File:Ingre,_Grande_Odalisque.jpg)  
 ![](https://upload.wikimedia.org/wikipedia/commons/d/df/Ingre,_Grande_Odalisque.jpg)
 
+## Jules Joseph Lefebvre
+
+* [La Vérité (1870)](https://upload.wikimedia.org/wikipedia/commons/1/17/La_Vérité,_par_Jules_Joseph_Lefebvre.jpg)  
+![](https://upload.wikimedia.org/wikipedia/commons/1/17/La_Vérité,_par_Jules_Joseph_Lefebvre.jpg)
+
 ## Rene Magritte
 
 * [Reclining nude (1925)](http://www.wikiart.org/en/rene-magritte/reclining-nude-1925)  
@@ -63,6 +74,16 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 * [Blue Nude (1902)](http://www.pablopicasso.org/blue-nude.jsp)  
 ![](http://www.pablopicasso.org/images/paintings/blue-nude.jpg)
 
+## Henrietta Rae
+
+* [Hylas and the Water Nymphs (1909)](https://commons.wikimedia.org/wiki/File:Rae_-_Water_Nymphs_(color).png)  
+![](https://upload.wikimedia.org/wikipedia/commons/9/93/Rae_-_Water_Nymphs_(color).png)
+
+## George Romney
+
+* [Lady Hamilton as Circe (1782)](https://commons.wikimedia.org/wiki/File:George_Romney_-_Lady_Hamilton_as_Circe.jpg)  
+![](https://upload.wikimedia.org/wikipedia/commons/a/ae/George_Romney_-_Lady_Hamilton_as_Circe.jpg)
+
 ## Félix Vallotton
 
 * [Frau mit Dienstmagd beim Baden (1896)](https://commons.wikimedia.org/wiki/File:Valloton_Frau_mit_Dienstmagd_beim_Baden.jpg)  
@@ -72,4 +93,9 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 
 * [Women bathing at the brook (1848)](https://commons.wikimedia.org/wiki/File:Waldmüller_-_Badende_Frauen_am_Waldbach_-_1848.jpg)  
 ![](https://upload.wikimedia.org/wikipedia/commons/1/12/Waldm%C3%BCller_-_Badende_Frauen_am_Waldbach_-_1848.jpg)
+
+## John William Waterhouse
+
+* [Hylas and the Nymphs(1896)](https://commons.wikimedia.org/wiki/File:Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg)  
+![](https://upload.wikimedia.org/wikipedia/commons/b/bd/Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg)
 

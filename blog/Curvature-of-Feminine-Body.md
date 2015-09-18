@@ -2,7 +2,7 @@
 layout:      post
 title:       Curvature of Feminine Body
 date:        2015-09-10
-update_date: 2015-09-17
+update_date: 2015-09-18
 summary:     
 categories:  blog
 permalink:   /blog/Curvature-of-Feminine-Body/
@@ -12,6 +12,9 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 
 * [A sculptor's Model (1877)](https://commons.wikimedia.org/wiki/File:A_Sculptors_Model.jpg)  
 ![](https://upload.wikimedia.org/wikipedia/commons/0/0d/A_Sculptors_Model.jpg)
+
+* [In the Tepidarium(1881)](https://commons.wikimedia.org/wiki/File:Tepidarium_Lawrence_Alma-Tadema_(1836-1912).jpg)  
+![](https://upload.wikimedia.org/wikipedia/commons/7/7d/Tepidarium_Lawrence_Alma-Tadema_(1836-1912).jpg)
 
 ## Eugene de Blaas
 
@@ -43,6 +46,11 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 
 * [Rain Shower (1986)](http://www.wikiart.org/en/eyvind-earle/rain-shower)  
 ![](http://uploads3.wikiart.org/images/eyvind-earle/rain-shower.jpg)
+
+## Giorgione & Titian
+
+* [Sleeping Venus (1508-1510)][gt_sv_l]  
+![][gt_sv_i]
 
 ## Francesco Hayez
 
@@ -89,6 +97,12 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 * [Frau mit Dienstmagd beim Baden (1896)](https://commons.wikimedia.org/wiki/File:Valloton_Frau_mit_Dienstmagd_beim_Baden.jpg)  
 ![](https://upload.wikimedia.org/wikipedia/commons/f/fb/Valloton_Frau_mit_Dienstmagd_beim_Baden.jpg)
 
+## Diego Velázquez
+
+* [Rokeby Venus (1647-1651)](https://commons.wikimedia.org/wiki/File:RokebyVenus.jpg)  
+![](https://upload.wikimedia.org/wikipedia/commons/7/7c/RokebyVenus.jpg)
+
+
 ## Ferdinand Georg Waldmüller
 
 * [Women bathing at the brook (1848)](https://commons.wikimedia.org/wiki/File:Waldmüller_-_Badende_Frauen_am_Waldbach_-_1848.jpg)  
@@ -99,3 +113,5 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 * [Hylas and the Nymphs (1896)](https://commons.wikimedia.org/wiki/File:Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg)  
 ![](https://upload.wikimedia.org/wikipedia/commons/b/bd/Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg)
 
+[gt_sv_l]: https://commons.wikimedia.org/wiki/File:Giorgione_-_Sleeping_Venus_-_Google_Art_Project_2.jpg
+[gt_sv_i]: https://upload.wikimedia.org/wikipedia/commons/8/86/Giorgione_-_Sleeping_Venus_-_Google_Art_Project_2.jpg

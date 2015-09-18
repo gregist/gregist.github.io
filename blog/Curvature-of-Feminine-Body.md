@@ -103,10 +103,10 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 * [Sleeping Venus (1508-1510)][gt-sv-l]  
 ![][gt-sv-i]
 
-## Johnn William Godward
+<!-- ## Johnn William Godward
 
 * [In the Tepidarium (1913)][jwg-itt-l]  
-![][jwg-itt-i]
+![][jwg-itt-i] -->
 
 ## Francesco Hayez
 

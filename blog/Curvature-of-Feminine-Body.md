@@ -52,6 +52,11 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 * [Sleeping Venus (1508-1510)][gt-sv-l]  
 ![][gt-sv-i]
 
+## Johnn William Godward
+
+* [In the Tepidarium (1913)][jwg-itt-l]  
+![][jwg-itt-i]
+
 ## Francesco Hayez
 
 * [Weiblicher Akt (1859)](https://commons.wikimedia.org/wiki/File:Francesco_Hayez_060.jpg)  
@@ -113,6 +118,8 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 * [Hylas and the Nymphs (1896)][jww-hatn-l]  
 ![][jww-hatn-i]
 
+[jwg-itt-l]: https://commons.wikimedia.org/wiki/File:Godward-In_the_Tepidarium-1913.jpg
+[jwg-itt-i]: https://upload.wikimedia.org/wikipedia/commons/6/6b/Godward-In_the_Tepidarium-1913.jpg
 [jww-hatn-l]: https://commons.wikimedia.org/wiki/File:Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg
 [jww-hatn-i]: https://upload.wikimedia.org/wikipedia/commons/b/bd/Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg
 [gt-sv-l]: https://commons.wikimedia.org/wiki/File:Giorgione_-_Sleeping_Venus_-_Google_Art_Project_2.jpg

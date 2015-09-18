@@ -81,10 +81,10 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 ## Jules Joseph Lefebvre
 
 * [La Vérité (1870)](jjl-lv-l)  
-![](jjl-lv-i)
+![][jjl-lv-i]
 
 * [Chloé (1875)](jjl-c-l)  
-![](jjl-c-i)
+![][jjl-c-i]
 
 [jjl-lv-l]: https://commons.wikimedia.org/wiki/File:La_Vérité,_par_Jules_Joseph_Lefebvre.jpg
 [jjl-lv-i]: https://upload.wikimedia.org/wikipedia/commons/1/17/La_Vérité,_par_Jules_Joseph_Lefebvre.jpg
@@ -106,15 +106,13 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 * [Blue Nude (1902)](http://www.pablopicasso.org/blue-nude.jsp)  
 ![](http://www.pablopicasso.org/images/paintings/blue-nude.jpg)
 
-<!-- ## Henrietta Rae
-
-* [Hylas and the Water Nymphs (1909)](https://commons.wikimedia.org/wiki/File:Rae_-_Water_Nymphs_(color).png)  
-![](https://upload.wikimedia.org/wikipedia/commons/9/93/Rae_-_Water_Nymphs_(color).png) -->
-
 ## George Romney
 
-* [Lady Hamilton as Circe (1782)](https://commons.wikimedia.org/wiki/File:George_Romney_-_Lady_Hamilton_as_Circe.jpg)  
-![](https://upload.wikimedia.org/wikipedia/commons/a/ae/George_Romney_-_Lady_Hamilton_as_Circe.jpg)
+* [Lady Hamilton as Circe (1782)][gr-lhac-l]  
+![][gr-lhac-i]
+
+[gr-lhac-l]: https://commons.wikimedia.org/wiki/File:George_Romney_-_Lady_Hamilton_as_Circe.jpg
+[gr-lhac-i]: https://upload.wikimedia.org/wikipedia/commons/a/ae/George_Romney_-_Lady_Hamilton_as_Circe.jpg
 
 ## Titian
 
@@ -123,8 +121,11 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 
 ## Félix Vallotton
 
-* [Frau mit Dienstmagd beim Baden (1896)](https://commons.wikimedia.org/wiki/File:Valloton_Frau_mit_Dienstmagd_beim_Baden.jpg)  
-![](https://upload.wikimedia.org/wikipedia/commons/f/fb/Valloton_Frau_mit_Dienstmagd_beim_Baden.jpg)
+* [Frau mit Dienstmagd beim Baden (1896)][fv-fmdbb-l]  
+![][fv-fmdbb-i]
+
+[fv-fmdbb-l]: https://commons.wikimedia.org/wiki/File:Valloton_Frau_mit_Dienstmagd_beim_Baden.jpg
+[fv-fmdbb-i]: https://upload.wikimedia.org/wikipedia/commons/f/fb/Valloton_Frau_mit_Dienstmagd_beim_Baden.jpg
 
 ## Diego Velázquez
 
@@ -142,12 +143,13 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 * [Hylas and the Nymphs (1896)][jww-hatn-l]  
 ![][jww-hatn-i]
 
+[jww-hatn-l]: https://commons.wikimedia.org/wiki/File:Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg
+[jww-hatn-i]: https://upload.wikimedia.org/wikipedia/commons/b/bd/Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg
+
 [t-va-l]: https://commons.wikimedia.org/wiki/File:TITIAN_-_Venus_Anadyomene_(National_Galleries_of_Scotland,_c._1520._Oil_on_canvas,_75.8_x_57.6_cm).jpg
 [t-va-i]: https://upload.wikimedia.org/wikipedia/commons/5/55/TITIAN_-_Venus_Anadyomene_(National_Galleries_of_Scotland,_c._1520._Oil_on_canvas,_75.8_x_57.6_cm).jpg
 [jwg-itt-l]: https://commons.wikimedia.org/wiki/File:Godward-In_the_Tepidarium-1913.jpg
 [jwg-itt-i]: https://upload.wikimedia.org/wikipedia/commons/6/6b/Godward-In_the_Tepidarium-1913.jpg
-[jww-hatn-l]: https://commons.wikimedia.org/wiki/File:Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg
-[jww-hatn-i]: https://upload.wikimedia.org/wikipedia/commons/b/bd/Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg
 [gt-sv-l]: https://commons.wikimedia.org/wiki/File:Giorgione_-_Sleeping_Venus_-_Google_Art_Project_2.jpg
 [gt-sv-i]: https://upload.wikimedia.org/wikipedia/commons/8/86/Giorgione_-_Sleeping_Venus_-_Google_Art_Project_2.jpg
 [lat-asm-l]: https://commons.wikimedia.org/wiki/File:A_Sculptors_Model.jpg

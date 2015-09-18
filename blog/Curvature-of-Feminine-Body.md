@@ -91,6 +91,14 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 [jjl-c-l]: https://commons.wikimedia.org/wiki/File:Chloé,_par_Jules_Joseph_Lefebvre.jpg
 [jjl-c-i]: https://upload.wikimedia.org/wikipedia/commons/5/50/Chloé,_par_Jules_Joseph_Lefebvre.jpg
 
+## Frederic Leighton
+
+* [Actaea, the Nymph of the Shore (1853-1858)][fl-a-l]  
+![][fl-a-i]
+
+[fl-a-l]: https://commons.wikimedia.org/wiki/File:1868_Frederic_Leighton_-_Actaea.jpg
+[fl-a-i]: https://upload.wikimedia.org/wikipedia/commons/7/7d/1868_Frederic_Leighton_-_Actaea.jpg
+
 ## Rene Magritte
 
 * [Reclining nude (1925)](http://www.wikiart.org/en/rene-magritte/reclining-nude-1925)  
@@ -103,8 +111,11 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 
 ## Pablo Picasso
 
-* [Blue Nude (1902)](http://www.pablopicasso.org/blue-nude.jsp)  
-![](http://www.pablopicasso.org/images/paintings/blue-nude.jpg)
+* [Blue Nude (1902)][pp-bn-l]  
+![][pp-bn-i]
+
+[pp-bn-l]: http://www.pablopicasso.org/blue-nude.jsp
+[pp-bn-i]: http://www.pablopicasso.org/images/paintings/blue-nude.jpg
 
 ## George Romney
 
@@ -129,14 +140,19 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 
 ## Diego Velázquez
 
-* [Rokeby Venus (1647-1651)](https://commons.wikimedia.org/wiki/File:RokebyVenus.jpg)  
-![](https://upload.wikimedia.org/wikipedia/commons/7/7c/RokebyVenus.jpg)
+* [Rokeby Venus (1647-1651)][dv-rv-l]  
+![][dv-rv-i]
 
+[dv-rv-l]: https://commons.wikimedia.org/wiki/File:RokebyVenus.jpg
+[dv-rv-i]: https://upload.wikimedia.org/wikipedia/commons/7/7c/RokebyVenus.jpg
 
 ## Ferdinand Georg Waldmüller
 
-* [Women bathing at the brook (1848)](https://commons.wikimedia.org/wiki/File:Waldmüller_-_Badende_Frauen_am_Waldbach_-_1848.jpg)  
-![](https://upload.wikimedia.org/wikipedia/commons/1/12/Waldm%C3%BCller_-_Badende_Frauen_am_Waldbach_-_1848.jpg)
+* [Women bathing at the brook (1848)][fgw-wbatb-l]  
+![][fgw-wbatb-i]
+
+[fgw-wbatb-l]: https://commons.wikimedia.org/wiki/File:Waldmüller_-_Badende_Frauen_am_Waldbach_-_1848.jpg
+[fgw-wbatb-i]: https://upload.wikimedia.org/wikipedia/commons/1/12/Waldm%C3%BCller_-_Badende_Frauen_am_Waldbach_-_1848.jpg
 
 ## John William Waterhouse
 
@@ -145,6 +161,8 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 
 [jww-hatn-l]: https://commons.wikimedia.org/wiki/File:Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg
 [jww-hatn-i]: https://upload.wikimedia.org/wikipedia/commons/b/bd/Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg
+
+<!--  -->
 
 [t-va-l]: https://commons.wikimedia.org/wiki/File:TITIAN_-_Venus_Anadyomene_(National_Galleries_of_Scotland,_c._1520._Oil_on_canvas,_75.8_x_57.6_cm).jpg
 [t-va-i]: https://upload.wikimedia.org/wikipedia/commons/5/55/TITIAN_-_Venus_Anadyomene_(National_Galleries_of_Scotland,_c._1520._Oil_on_canvas,_75.8_x_57.6_cm).jpg

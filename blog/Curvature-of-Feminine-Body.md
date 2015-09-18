@@ -61,10 +61,10 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 [wab-tw-l]: https://commons.wikimedia.org/wiki/File:William-Adolphe_Bouguereau_(1825-1905)_-_The_Wave_(1896).jpg
 [wab-tw-i]: https://upload.wikimedia.org/wikipedia/commons/6/6e/William-Adolphe_Bouguereau_(1825-1905)_-_The_Wave_(1896).jpg
 
-## Alexandre Cabanel
+<!-- ## Alexandre Cabanel
 
 * [The Birth of Venus (1875)][ac-tbov-l]  
-![][ac-tbov-i]
+![][ac-tbov-i] -->
 
 [ac-tbov-l]: https://commons.wikimedia.org/wiki/File:1863_Alexandre_Cabanel_-_The_Birth_of_Venus.jpg
 [ac-tbov-i]: https://upload.wikimedia.org/wikipedia/commons/f/f6/1863_Alexandre_Cabanel_-_The_Birth_of_Venus.jpg

@@ -64,13 +64,29 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 
 ## Jean Auguste Dominique Ingres
 
-* [Grande Odalisque (1814)](https://commons.wikimedia.org/wiki/File:Ingre,_Grande_Odalisque.jpg)  
-![](https://upload.wikimedia.org/wikipedia/commons/d/df/Ingre,_Grande_Odalisque.jpg)
+* [Grande Odalisque (1814)][jadi-go-l]  
+![][jadi-go-i]
+
+* [The Source (1856)][jadi-ts-l]  
+![][jadi-ts-i]
+
+[jadi-ts-l]: https://commons.wikimedia.org/wiki/File:Ingres,_The_source.jpg
+[jadi-ts-i]: https://upload.wikimedia.org/wikipedia/commons/b/bd/Ingres,_The_source.jpg
+[jadi-go-l]: https://commons.wikimedia.org/wiki/File:Ingre,_Grande_Odalisque.jpg
+[jadi-go-i]: https://upload.wikimedia.org/wikipedia/commons/d/df/Ingre,_Grande_Odalisque.jpg
 
 ## Jules Joseph Lefebvre
 
-* [La Vérité (1870)](https://upload.wikimedia.org/wikipedia/commons/1/17/La_Vérité,_par_Jules_Joseph_Lefebvre.jpg)  
-![](https://upload.wikimedia.org/wikipedia/commons/1/17/La_Vérité,_par_Jules_Joseph_Lefebvre.jpg)
+* [La Vérité (1870)](jjl-lv-l)  
+![](jjl-lv-i)
+
+* [Chloé (1875)](jjl-c-l)  
+![](jjl-c-i)
+
+[jjl-lv-l]: https://commons.wikimedia.org/wiki/File:La_Vérité,_par_Jules_Joseph_Lefebvre.jpg
+[jjl-lv-i]: https://upload.wikimedia.org/wikipedia/commons/1/17/La_Vérité,_par_Jules_Joseph_Lefebvre.jpg
+[jjl-c-l]: https://commons.wikimedia.org/wiki/File:Chloé,_par_Jules_Joseph_Lefebvre.jpg
+[jjl-c-i]: https://upload.wikimedia.org/wikipedia/commons/5/50/Chloé,_par_Jules_Joseph_Lefebvre.jpg
 
 ## Rene Magritte
 
@@ -97,6 +113,11 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 * [Lady Hamilton as Circe (1782)](https://commons.wikimedia.org/wiki/File:George_Romney_-_Lady_Hamilton_as_Circe.jpg)  
 ![](https://upload.wikimedia.org/wikipedia/commons/a/ae/George_Romney_-_Lady_Hamilton_as_Circe.jpg)
 
+## Titian
+
+* [Venus Anadyomene (1520)][t-va-l]  
+![][t-va-i]
+
 ## Félix Vallotton
 
 * [Frau mit Dienstmagd beim Baden (1896)](https://commons.wikimedia.org/wiki/File:Valloton_Frau_mit_Dienstmagd_beim_Baden.jpg)  
@@ -118,6 +139,8 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 * [Hylas and the Nymphs (1896)][jww-hatn-l]  
 ![][jww-hatn-i]
 
+[t-va-l]: https://commons.wikimedia.org/wiki/File:TITIAN_-_Venus_Anadyomene_(National_Galleries_of_Scotland,_c._1520._Oil_on_canvas,_75.8_x_57.6_cm).jpg
+[t-va-i]: https://upload.wikimedia.org/wikipedia/commons/5/55/TITIAN_-_Venus_Anadyomene_(National_Galleries_of_Scotland,_c._1520._Oil_on_canvas,_75.8_x_57.6_cm).jpg
 [jwg-itt-l]: https://commons.wikimedia.org/wiki/File:Godward-In_the_Tepidarium-1913.jpg
 [jwg-itt-i]: https://upload.wikimedia.org/wikipedia/commons/6/6b/Godward-In_the_Tepidarium-1913.jpg
 [jww-hatn-l]: https://commons.wikimedia.org/wiki/File:Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg

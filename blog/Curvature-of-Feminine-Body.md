@@ -258,6 +258,14 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 [gr-lhac-l]: https://commons.wikimedia.org/wiki/File:George_Romney_-_Lady_Hamilton_as_Circe.jpg
 [gr-lhac-i]: https://upload.wikimedia.org/wikipedia/commons/a/ae/George_Romney_-_Lady_Hamilton_as_Circe.jpg
 
+## Dante Gabriel Rossetti
+
+* [Lady Lilith (1866-68, altered 1872-73)][dgr-ll-l] 
+![][dgr-ll-i]
+
+[dgr-ll-l]: https://commons.wikimedia.org/wiki/File:Lady-Lilith.jpg
+[dgr-ll-i]: https://upload.wikimedia.org/wikipedia/commons/8/86/Lady-Lilith.jpg
+
 ## John Singer Sargent
 
 * [Madame X (1883-1884)][jss-mx-l]  

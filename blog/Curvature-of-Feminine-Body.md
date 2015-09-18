@@ -10,11 +10,11 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 
 ## Lawrence Alma-Tadema
 
-* [A sculptor's Model (1877)](https://commons.wikimedia.org/wiki/File:A_Sculptors_Model.jpg)  
-![](https://upload.wikimedia.org/wikipedia/commons/0/0d/A_Sculptors_Model.jpg)
+* [A sculptor's Model (1877)][lat-asm-l]  
+![][lat-asm-i]
 
-* [In the Tepidarium(1881)](https://commons.wikimedia.org/wiki/File:Tepidarium_Lawrence_Alma-Tadema_(1836-1912).jpg)  
-![](https://upload.wikimedia.org/wikipedia/commons/7/7d/Tepidarium_Lawrence_Alma-Tadema_(1836-1912).jpg)
+* [In the Tepidarium (1881)][lat-itt-l]  
+![][lat-itt-i]
 
 ## Eugene de Blaas
 
@@ -49,8 +49,8 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 
 ## Giorgione & Titian
 
-* [Sleeping Venus (1508-1510)][gt_sv_l]  
-![][gt_sv_i]
+* [Sleeping Venus (1508-1510)][gt-sv-l]  
+![][gt-sv-i]
 
 ## Francesco Hayez
 
@@ -110,8 +110,14 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 
 ## John William Waterhouse
 
-* [Hylas and the Nymphs (1896)](https://commons.wikimedia.org/wiki/File:Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg)  
-![](https://upload.wikimedia.org/wikipedia/commons/b/bd/Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg)
+* [Hylas and the Nymphs (1896)][jww-hatn-l]  
+![][jww-hatn-i]
 
-[gt_sv_l]: https://commons.wikimedia.org/wiki/File:Giorgione_-_Sleeping_Venus_-_Google_Art_Project_2.jpg
-[gt_sv_i]: https://upload.wikimedia.org/wikipedia/commons/8/86/Giorgione_-_Sleeping_Venus_-_Google_Art_Project_2.jpg
+[jww-hatn-l]: https://commons.wikimedia.org/wiki/File:Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg
+[jww-hatn-i]: https://upload.wikimedia.org/wikipedia/commons/b/bd/Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg
+[gt-sv-l]: https://commons.wikimedia.org/wiki/File:Giorgione_-_Sleeping_Venus_-_Google_Art_Project_2.jpg
+[gt-sv-i]: https://upload.wikimedia.org/wikipedia/commons/8/86/Giorgione_-_Sleeping_Venus_-_Google_Art_Project_2.jpg
+[lat-asm-l]: https://commons.wikimedia.org/wiki/File:A_Sculptors_Model.jpg
+[lat-asm-i]: https://upload.wikimedia.org/wikipedia/commons/0/0d/A_Sculptors_Model.jpg
+[lat-itt-l]: https://commons.wikimedia.org/wiki/File:Tepidarium_Lawrence_Alma-Tadema_(1836-1912).jpg
+[lat-itt-i]: https://upload.wikimedia.org/wikipedia/commons/7/7d/Tepidarium_Lawrence_Alma-Tadema_(1836-1912).jpg

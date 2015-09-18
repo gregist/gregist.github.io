@@ -39,13 +39,16 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 
 ## John Collier
 
-* [Lady Godiva (1898)](https://commons.wikimedia.org/wiki/File:Lady_Godiva_(John_Collier,_c._1897).jpg)  
-![](https://upload.wikimedia.org/wikipedia/commons/0/0c/Lady_Godiva_(John_Collier,_c._1897).jpg)
+* [Lady Godiva (1898)][jc-lg-l]  
+![][jc-lg-i]
 
-## Eyvind Earle
+[jc-lg-l]: https://commons.wikimedia.org/wiki/File:Lady_Godiva_(John_Collier,_c._1897).jpg
+[jc-lg-i]: https://upload.wikimedia.org/wikipedia/commons/0/0c/Lady_Godiva_(John_Collier,_c._1897).jpg
+
+<!-- ## Eyvind Earle
 
 * [Rain Shower (1986)](http://www.wikiart.org/en/eyvind-earle/rain-shower)  
-![](http://uploads3.wikiart.org/images/eyvind-earle/rain-shower.jpg)
+![](http://uploads3.wikiart.org/images/eyvind-earle/rain-shower.jpg) -->
 
 ## Giorgione & Titian
 
@@ -67,8 +70,8 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 * [Grande Odalisque (1814)][jadi-go-l]  
 ![][jadi-go-i]
 
-* [The Source (1856)][jadi-ts-l]  
-![][jadi-ts-i]
+<!-- * [The Source (1856)][jadi-ts-l]  
+![][jadi-ts-i] -->
 
 [jadi-ts-l]: https://commons.wikimedia.org/wiki/File:Ingres,_The_source.jpg
 [jadi-ts-i]: https://upload.wikimedia.org/wikipedia/commons/b/bd/Ingres,_The_source.jpg

@@ -93,6 +93,14 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 [jc-lg-l]: https://commons.wikimedia.org/wiki/File:Lady_Godiva_(John_Collier,_c._1897).jpg
 [jc-lg-i]: https://upload.wikimedia.org/wikipedia/commons/0/0c/Lady_Godiva_(John_Collier,_c._1897).jpg
 
+## Herbert James Draper
+
+* [By Summer Seas (1912)][hjd-bss-l]  
+![][hjd-bss-i]
+
+[hjd-bss-l]: https://commons.wikimedia.org/wiki/File:Herbert_James_Draper,_By_Summer_Seas.jpg
+[hjd-bss-i]: https://upload.wikimedia.org/wikipedia/commons/1/1f/Herbert_James_Draper,_By_Summer_Seas.jpg
+
 <!-- ## Eyvind Earle
 
 * [Rain Shower (1986)](http://www.wikiart.org/en/eyvind-earle/rain-shower)  
@@ -139,10 +147,10 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 
 ## Jules Joseph Lefebvre
 
-* [La Vérité (1870)](jjl-lv-l)  
+* [La Vérité (1870)][jjl-lv-l]  
 ![][jjl-lv-i]
 
-* [Chloé (1875)](jjl-c-l)  
+* [Chloé (1875)][jjl-c-l]  
 ![][jjl-c-i]
 
 [jjl-lv-l]: https://commons.wikimedia.org/wiki/File:La_Vérité,_par_Jules_Joseph_Lefebvre.jpg

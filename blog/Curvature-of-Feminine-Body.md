@@ -44,22 +44,61 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 
 <!-- * [Nymphs and Satyr (1873)](https://commons.wikimedia.org/wiki/File:Nymphs_and_Satyr,_by_William-Adolphe_Bouguereau.jpg)  
 ![](https://upload.wikimedia.org/wikipedia/commons/3/32/Nymphs_and_Satyr,_by_William-Adolphe_Bouguereau.jpg) -->
+* [Bather (1864)][wab-ba-l]  
+![][wab-ba-i]
 
 * [The Nymphaeum (1878)][wab-tn-l]  
 ![][wab-tn-i]
 
+* [The Birth of Venus (1879)][wab-tbov-l]  
+![][wab-tbov-i]
+
 * [Biblis (1884)][wab-b-l]  
 ![][wab-b-i]
+
+* [Les Deux Baigneuses (1884)][wab-ldb-l]  
+![][wab-ldb-i]
+
+* [Lost Pleiad (1884)][wab-lp-l]  
+![][wab-lp-i]
+
+* [After the Bath (1894)][wab-atb-l]  
+![][wab-atb-i]
 
 * [The Wave (1896)][wab-tw-l]  
 ![][wab-tw-i]
 
+* [Douleur d'amour (1899)][wab-dd-l]  
+![][wab-dd-i]
+
+* [Meditation (1901)][wab-m-l]  
+![][wab-m-i]
+
+* [L'Océanide (1904)][wab-lo-l]  
+![][wab-lo-i]
+
+[wab-m-l]: https://commons.wikimedia.org/wiki/File:William-Adolphe_Bouguereau_(1825-1905)_-_Meditation_(1901).jpg
+[wab-m-i]: https://upload.wikimedia.org/wikipedia/commons/9/99/William-Adolphe_Bouguereau_(1825-1905)_-_Meditation_(1901).jpg
+[wab-atb-l]: https://commons.wikimedia.org/wiki/File:William-Adolphe_Bouguereau_(1825-1905)_-_After_the_Bath_(1894).jpg
+[wab-atb-i]: https://upload.wikimedia.org/wikipedia/commons/c/c8/William-Adolphe_Bouguereau_(1825-1905)_-_After_the_Bath_(1894).jpg
+[wab-dd-l]: https://commons.wikimedia.org/wiki/File:William-Adolphe_Bouguereau_(1825-1905)_-_Elegy_(1899).jpg
+[wab-dd-i]: https://upload.wikimedia.org/wikipedia/commons/f/fa/William-Adolphe_Bouguereau_(1825-1905)_-_Elegy_(1899).jpg
+[wab-lo-l]: https://commons.wikimedia.org/wiki/File:William-Adolphe_Bouguereau_(1825-1905)_-_Ocean_Nymph_(L'océanide)(1904).jpg
+[wab-lo-i]: https://upload.wikimedia.org/wikipedia/commons/c/c7/William-Adolphe_Bouguereau_(1825-1905)_-_Ocean_Nymph_(L'océanide)(1904).jpg
+[wab-lp-l]: https://commons.wikimedia.org/wiki/File:William-Adolphe_Bouguereau_(1825-1905)_-_Lost_Pleiad_(1884).jpg
+[wab-lp-i]: https://upload.wikimedia.org/wikipedia/commons/d/dc/William-Adolphe_Bouguereau_(1825-1905)_-_Lost_Pleiad_(1884).jpg
+[wab-ldb-l]: https://commons.wikimedia.org/wiki/File:William-Adolphe_Bouguereau_(1825-1905)_-_Les_Deux_Baigneuses_(1884).jpg
+[wab-ldb-i]: https://upload.wikimedia.org/wikipedia/commons/5/5a/William-Adolphe_Bouguereau_(1825-1905)_-_Les_Deux_Baigneuses_(1884).jpg
+[wab-ba-l]: https://commons.wikimedia.org/wiki/File:Bouguereau_-_Baigneuse.jpg
+[wab-ba-i]: https://upload.wikimedia.org/wikipedia/commons/e/e3/Bouguereau_-_Baigneuse.jpg
 [wab-tn-l]: https://commons.wikimedia.org/wiki/File:William-Adolphe_Bouguereau_(1825-1905)_-_The_Nymphaeum_(1878).jpg
 [wab-tn-i]: https://upload.wikimedia.org/wikipedia/commons/8/81/William-Adolphe_Bouguereau_(1825-1905)_-_The_Nymphaeum_(1878).jpg
 [wab-b-l]: https://commons.wikimedia.org/wiki/File:William-Adolphe_Bouguereau_(1825-1905)_-_Biblis_(1884).jpg
 [wab-b-i]: https://upload.wikimedia.org/wikipedia/commons/a/a1/William-Adolphe_Bouguereau_(1825-1905)_-_Biblis_(1884).jpg
 [wab-tw-l]: https://commons.wikimedia.org/wiki/File:William-Adolphe_Bouguereau_(1825-1905)_-_The_Wave_(1896).jpg
 [wab-tw-i]: https://upload.wikimedia.org/wikipedia/commons/6/6e/William-Adolphe_Bouguereau_(1825-1905)_-_The_Wave_(1896).jpg
+[wab-tbov-l]: https://commons.wikimedia.org/wiki/File:William-Adolphe_Bouguereau_(1825-1905)_-_The_Birth_of_Venus_(1879).jpg
+[wab-tbov-i]: https://upload.wikimedia.org/wikipedia/commons/b/bb/William-Adolphe_Bouguereau_(1825-1905)_-_The_Birth_of_Venus_(1879).jpg
 
 <!-- ## Alexandre Cabanel
 

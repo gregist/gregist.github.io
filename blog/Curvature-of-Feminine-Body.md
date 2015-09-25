@@ -24,10 +24,10 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 [pjab-tpatw-l]: https://commons.wikimedia.org/wiki/File:Baudry_paul_the_wave_and_the_pearl.jpg
 [pjab-tpatw-i]: https://upload.wikimedia.org/wikipedia/commons/b/b5/Baudry_paul_the_wave_and_the_pearl.jpg
 
-## Edwin Blashfield
+<!-- ## Edwin Blashfield
 
 * [Spring Scattering Stars (1927)][eb-scs-l]  
-![][eb-scs-i]
+![][eb-scs-i] -->
 
 [eb-scs-l]: https://commons.wikimedia.org/wiki/File:Edwin_Blashfield_-_Spring_Scattering_Stars.jpg
 [eb-scs-i]: https://upload.wikimedia.org/wikipedia/commons/9/97/Edwin_Blashfield_-_Spring_Scattering_Stars.jpg
@@ -50,8 +50,8 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 * [The Nymphaeum (1878)][wab-tn-l]  
 ![][wab-tn-i]
 
-* [The Birth of Venus (1879)][wab-tbov-l]  
-![][wab-tbov-i]
+<!-- * [The Birth of Venus (1879)][wab-tbov-l]  
+![][wab-tbov-i] -->
 
 * [Biblis (1884)][wab-b-l]  
 ![][wab-b-i]
@@ -68,14 +68,14 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 * [The Wave (1896)][wab-tw-l]  
 ![][wab-tw-i]
 
-* [Douleur d'amour (1899)][wab-dd-l]  
-![][wab-dd-i]
+<!-- * [Douleur d'amour (1899)][wab-dd-l]  
+![][wab-dd-i] -->
 
 * [Meditation (1901)][wab-m-l]  
 ![][wab-m-i]
 
-* [L'Océanide (1904)][wab-lo-l]  
-![][wab-lo-i]
+<!-- * [L'Océanide (1904)][wab-lo-l]  
+![][wab-lo-i] -->
 
 [wab-m-l]: https://commons.wikimedia.org/wiki/File:William-Adolphe_Bouguereau_(1825-1905)_-_Meditation_(1901).jpg
 [wab-m-i]: https://upload.wikimedia.org/wikipedia/commons/9/99/William-Adolphe_Bouguereau_(1825-1905)_-_Meditation_(1901).jpg
@@ -155,10 +155,10 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 * [In the Tepidarium (1913)][jwg-itt-l]  
 ![][jwg-itt-i] -->
 
-## Francesco Hayez
+<!-- ## Francesco Hayez
 
 * [Weiblicher Akt (1859)][fh-wa-l]  
-![][fh-wa-i]
+![][fh-wa-i] -->
 
 [fh-wa-l]: https://commons.wikimedia.org/wiki/File:Francesco_Hayez_060.jpg
 [fh-wa-i]: https://upload.wikimedia.org/wikipedia/commons/8/88/Francesco_Hayez_060.jpg
@@ -197,21 +197,21 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 [jjl-c-l]: https://commons.wikimedia.org/wiki/File:Chloé,_par_Jules_Joseph_Lefebvre.jpg
 [jjl-c-i]: https://upload.wikimedia.org/wikipedia/commons/5/50/Chloé,_par_Jules_Joseph_Lefebvre.jpg
 
-## Edmund Leighton
+<!-- ## Edmund Leighton
 
 * [Stitching the Standard (1911)][el-sts-l]  
-![][el-sts-i]
+![][el-sts-i] -->
 
 [el-sts-l]: https://commons.wikimedia.org/wiki/File:Leighton-Stitching_the_Standard.jpg
 [el-sts-i]: https://upload.wikimedia.org/wikipedia/commons/0/0c/Leighton-Stitching_the_Standard.jpg
 
-## Frederic Leighton
+<!-- ## Frederic Leighton
 
 * [Actaea, the Nymph of the Shore (1853-1858)][fl-a-l]  
 ![][fl-a-i]
 
 * [Flaming June (1895)][fl-fj-l]  
-![][fl-fj-i]
+![][fl-fj-i] -->
 
 [fl-fj-l]: https://commons.wikimedia.org/wiki/File:Flaming_June,_by_Frederic_Lord_Leighton_(1830-1896).jpg
 [fl-fj-i]: https://upload.wikimedia.org/wikipedia/commons/8/8d/Flaming_June,_by_Frederic_Lord_Leighton_(1830-1896).jpg
@@ -226,10 +226,10 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 [rm-rn-l]: http://www.wikiart.org/en/rene-magritte/reclining-nude-1925
 [rm-rn-i]: http://uploads6.wikiart.org/images/rene-magritte/reclining-nude-1925(1).jpg
 
-## Édouard Manet
+<!-- ## Édouard Manet
 
 * [La Nymphe surprise (1861)][em-lns-l]  
-![][em-lns-i]
+![][em-lns-i] -->
 
 [em-lns-l]: https://commons.wikimedia.org/wiki/File:Édouard_MANET_-_La_Nymphe_surprise_-_Google_Art_Project.jpg
 [em-lns-i]: https://upload.wikimedia.org/wikipedia/commons/9/92/Édouard_MANET_-_La_Nymphe_surprise_-_Google_Art_Project.jpg
@@ -266,10 +266,10 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 [dgr-ll-l]: https://commons.wikimedia.org/wiki/File:Lady-Lilith.jpg
 [dgr-ll-i]: https://upload.wikimedia.org/wikipedia/commons/8/86/Lady-Lilith.jpg
 
-## John Singer Sargent
+<!-- ## John Singer Sargent
 
 * [Madame X (1883-1884)][jss-mx-l]  
-![][jss-mx-i]
+![][jss-mx-i] -->
 
 [jss-mx-l]: https://commons.wikimedia.org/wiki/File:Madame_X_(Madame_Pierre_Gautreau),_John_Singer_Sargent,_1884_(unfree_frame_crop).jpg
 [jss-mx-i]: https://upload.wikimedia.org/wikipedia/commons/a/a4/Madame_X_(Madame_Pierre_Gautreau),_John_Singer_Sargent,_1884_(unfree_frame_crop).jpg

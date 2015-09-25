@@ -44,8 +44,12 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 
 <!-- * [Nymphs and Satyr (1873)](https://commons.wikimedia.org/wiki/File:Nymphs_and_Satyr,_by_William-Adolphe_Bouguereau.jpg)  
 ![](https://upload.wikimedia.org/wikipedia/commons/3/32/Nymphs_and_Satyr,_by_William-Adolphe_Bouguereau.jpg) -->
+
 * [Bather (1864)][wab-ba-l]  
 ![][wab-ba-i]
+
+* [Etude de nu pour Vénus (1865)][wab-ednpv-l]  
+![][wab-ednpv-i]
 
 * [The Nymphaeum (1878)][wab-tn-l]  
 ![][wab-tn-i]
@@ -68,6 +72,9 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 * [The Wave (1896)][wab-tw-l]  
 ![][wab-tw-i]
 
+* [Etude de tete de Femme Blonde de face (1898)][wab-etfbf-l]  
+![][wab-etfbf-i]
+
 <!-- * [Douleur d'amour (1899)][wab-dd-l]  
 ![][wab-dd-i] -->
 
@@ -77,6 +84,8 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 <!-- * [L'Océanide (1904)][wab-lo-l]  
 ![][wab-lo-i] -->
 
+[wab-ednpv-l]: https://commons.wikimedia.org/wiki/File:Bouguereau,_Etude_de_nu_pour_Vénus,_1865_(5590353834).jpg
+[wab-ednpv-i]: https://upload.wikimedia.org/wikipedia/commons/4/46/Bouguereau,_Etude_de_nu_pour_Vénus,_1865_(5590353834).jpg
 [wab-m-l]: https://commons.wikimedia.org/wiki/File:William-Adolphe_Bouguereau_(1825-1905)_-_Meditation_(1901).jpg
 [wab-m-i]: https://upload.wikimedia.org/wikipedia/commons/9/99/William-Adolphe_Bouguereau_(1825-1905)_-_Meditation_(1901).jpg
 [wab-atb-l]: https://commons.wikimedia.org/wiki/File:William-Adolphe_Bouguereau_(1825-1905)_-_After_the_Bath_(1894).jpg
@@ -99,6 +108,9 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 [wab-tw-i]: https://upload.wikimedia.org/wikipedia/commons/6/6e/William-Adolphe_Bouguereau_(1825-1905)_-_The_Wave_(1896).jpg
 [wab-tbov-l]: https://commons.wikimedia.org/wiki/File:William-Adolphe_Bouguereau_(1825-1905)_-_The_Birth_of_Venus_(1879).jpg
 [wab-tbov-i]: https://upload.wikimedia.org/wikipedia/commons/b/bb/William-Adolphe_Bouguereau_(1825-1905)_-_The_Birth_of_Venus_(1879).jpg
+[wab-etfbf-l]: https://commons.wikimedia.org/wiki/File:Bouguereau,_Etude_de_tete_de_Femme_Blonde_de_face,_1898_(5589754477).jpg
+[wab-etfbf-i]: https://upload.wikimedia.org/wikipedia/commons/0/08/Bouguereau,_Etude_de_tete_de_Femme_Blonde_de_face,_1898_(5589754477).jpg
+
 
 <!-- ## Alexandre Cabanel
 
@@ -131,6 +143,14 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 
 [jc-lg-l]: https://commons.wikimedia.org/wiki/File:Lady_Godiva_(John_Collier,_c._1897).jpg
 [jc-lg-i]: https://upload.wikimedia.org/wikipedia/commons/0/0c/Lady_Godiva_(John_Collier,_c._1897).jpg
+
+## Paul Delaroche
+
+* [Study for Louise Vernet on Her Death Bed (1845)][pd-slvb-l]  
+![][pd-slvb-i]
+
+[pd-slvb-i]: https://upload.wikimedia.org/wikipedia/commons/9/93/Paul_Delaroche_-_Study_for_"Louise_Vernet_on_Her_Death_Bed"_-_Walters_371379.jpg
+[pd-slvb-l]: https://commons.wikimedia.org/wiki/File:Paul_Delaroche_-_Study_for_"Louise_Vernet_on_Her_Death_Bed"_-_Walters_371379.jpg
 
 ## Herbert James Draper
 
@@ -196,6 +216,14 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 [jjl-lv-i]: https://upload.wikimedia.org/wikipedia/commons/1/17/La_Vérité,_par_Jules_Joseph_Lefebvre.jpg
 [jjl-c-l]: https://commons.wikimedia.org/wiki/File:Chloé,_par_Jules_Joseph_Lefebvre.jpg
 [jjl-c-i]: https://upload.wikimedia.org/wikipedia/commons/5/50/Chloé,_par_Jules_Joseph_Lefebvre.jpg
+
+## Henri Lehmann
+
+* [Study of a Female Nude (1840)][hl-soafn-l]  
+![][hl-soafn-i]
+
+[hl-soafn-l]: https://commons.wikimedia.org/wiki/File:Henri_Lehmann,_Study_of_a_Female_Nude,_The_Metropolitan_Museum_of_Art.jpg
+[hl-soafn-i]: https://upload.wikimedia.org/wikipedia/commons/e/e2/Henri_Lehmann,_Study_of_a_Female_Nude,_The_Metropolitan_Museum_of_Art.jpg
 
 <!-- ## Edmund Leighton
 
@@ -310,6 +338,18 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 
 [jww-hatn-l]: https://commons.wikimedia.org/wiki/File:Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg
 [jww-hatn-i]: https://upload.wikimedia.org/wikipedia/commons/b/bd/Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg
+
+* [Nymphs finding the head of Orpheus: a sketch of the nymph at the left (1900)][jww-nos-l]  
+![][jww-nos-i]
+
+[jww-nos-i]: https://upload.wikimedia.org/wikipedia/commons/6/6d/John_William_Waterhouse_-_Nymphs_Finding_the_Head_of_Orpheus_(sketch).jpg
+[jww-nos-l]: https://commons.wikimedia.org/wiki/File:John_William_Waterhouse_-_Nymphs_Finding_the_Head_of_Orpheus_(sketch).jpg
+
+* [Echo and Narcissus (1903)][jww-ean-l]  
+![][jww-ean-i]
+
+[jww-ean-i]: https://upload.wikimedia.org/wikipedia/commons/9/9c/John_William_Waterhouse_-_Echo_and_Narcissus_-_Google_Art_Project.jpg
+[jww-ean-l]: https://commons.wikimedia.org/wiki/File:John_William_Waterhouse_-_Echo_and_Narcissus_-_Google_Art_Project.jpg
 
 <!--  -->
 

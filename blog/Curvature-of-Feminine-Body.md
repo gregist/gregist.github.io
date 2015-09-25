@@ -267,6 +267,14 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 [em-lns-l]: https://commons.wikimedia.org/wiki/File:Édouard_MANET_-_La_Nymphe_surprise_-_Google_Art_Project.jpg
 [em-lns-i]: https://upload.wikimedia.org/wikipedia/commons/9/92/Édouard_MANET_-_La_Nymphe_surprise_-_Google_Art_Project.jpg
 
+## Chuck Miller
+
+* [Repose by Chuck Miller (2012)][cm-rcm-l]  
+![][cm-rcm-i]
+
+[cm-rcm-i]: http://www.absolutearts.com/portfolio3/c/chuckmillerfineart/Repose_by_Chuck_Miller-1345393167l.jpg
+[cm-rcm-l]: http://www.absolutearts.com/painting_oil/chuck_miller-repose_by_chuck_miller-1345393167.html
+
 ## Amedeo Modigliani
 
 * [Nude Sitting on a Divan (1917)][am-nsoad-l]  
@@ -309,8 +317,14 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 
 ## Titian
 
+* [Woman with a Mirror (1514)][t-wwm-l]  
+![][t-wwm-i]
+
 * [Venus Anadyomene (1520)][t-va-l]  
 ![][t-va-i]
+
+[t-wwm-i]: https://upload.wikimedia.org/wikipedia/commons/3/34/Titian_-_Woman_with_a_Mirror_-_WGA22913.jpg
+[t-wwm-l]: https://commons.wikimedia.org/wiki/File:Titian_-_Woman_with_a_Mirror_-_WGA22913.jpg
 
 ## Félix Vallotton
 

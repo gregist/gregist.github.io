@@ -141,13 +141,18 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 * [Lady Godiva (1898)][jc-lg-l]  
 ![][jc-lg-i]
 
+* [The Land Baby (1899)][jc-tlb-l]  
+![][jc-tlb-i]
+
+[jc-tlb-i]: https://upload.wikimedia.org/wikipedia/commons/f/fa/John_Collier_-_The_Land_Baby.jpg
+[jc-tlb-l]: https://commons.wikimedia.org/wiki/File:John_Collier_-_The_Land_Baby.jpg
 [jc-lg-l]: https://commons.wikimedia.org/wiki/File:Lady_Godiva_(John_Collier,_c._1897).jpg
 [jc-lg-i]: https://upload.wikimedia.org/wikipedia/commons/0/0c/Lady_Godiva_(John_Collier,_c._1897).jpg
 
-## Paul Delaroche
+<!-- ## Paul Delaroche
 
 * [Study for Louise Vernet on Her Death Bed (1845)][pd-slvb-l]  
-![][pd-slvb-i]
+![][pd-slvb-i] -->
 
 [pd-slvb-i]: https://upload.wikimedia.org/wikipedia/commons/9/93/Paul_Delaroche_-_Study_for_%22Louise_Vernet_on_Her_Death_Bed%22_-_Walters_371379.jpg
 [pd-slvb-l]: https://commons.wikimedia.org/wiki/File:Paul_Delaroche_-_Study_for_%22Louise_Vernet_on_Her_Death_Bed%22_-_Walters_371379.jpg

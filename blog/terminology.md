@@ -2,7 +2,7 @@
 layout:      post
 title:       Terminology
 date:        2015-05-09
-update_date: 
+update_date: 2015-09-26
 summary:     PHYLOSOPHY IS ALL ABOUT TERMINOLOGY.
 categories:  blog
 permalink:   /blog/terminology/

@@ -66,8 +66,8 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 * [Lost Pleiad (1884)][wab-lp-l]  
 ![][wab-lp-i]
 
-* [After the Bath (1894)][wab-atb-l]  
-![][wab-atb-i]
+<!-- * [After the Bath (1894)][wab-atb-l]  
+![][wab-atb-i] -->
 
 * [The Wave (1896)][wab-tw-l]  
 ![][wab-tw-i]

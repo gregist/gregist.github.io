@@ -149,8 +149,8 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 * [Study for Louise Vernet on Her Death Bed (1845)][pd-slvb-l]  
 ![][pd-slvb-i]
 
-[pd-slvb-i]: https://upload.wikimedia.org/wikipedia/commons/9/93/Paul_Delaroche_-_Study_for_"Louise_Vernet_on_Her_Death_Bed"_-_Walters_371379.jpg
-[pd-slvb-l]: https://commons.wikimedia.org/wiki/File:Paul_Delaroche_-_Study_for_"Louise_Vernet_on_Her_Death_Bed"_-_Walters_371379.jpg
+[pd-slvb-i]: https://upload.wikimedia.org/wikipedia/commons/9/93/Paul_Delaroche_-_Study_for_%22Louise_Vernet_on_Her_Death_Bed%22_-_Walters_371379.jpg
+[pd-slvb-l]: https://commons.wikimedia.org/wiki/File:Paul_Delaroche_-_Study_for_%22Louise_Vernet_on_Her_Death_Bed%22_-_Walters_371379.jpg
 
 ## Herbert James Draper
 

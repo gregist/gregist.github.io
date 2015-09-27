@@ -18,4 +18,4 @@ This conjecture arise from the observation that the radius of the cosmic horizon
 
 $$ M=\frac{4}{3} \pi R^3 \times \frac{3 H^2}{8\pi G} = \frac{H^2 R^3}{2 G} = \frac{R}{2 G} \Rightarrow R=2GM $$
 
-The conjecture is not true because the singularity should have killed us. Alas, it did not. In fact, our universe has been behaving more like a whitehole, in the sense that it sprung from a singularity and coughed out all sorts of weird stuff. However, the resemblance of cosmic horizon to blackhole horizons does bear some intersting physical insights.
+The conjecture is not true because the singularity should have killed us. Alas, it did not. In fact, our universe has been behaving more like a whitehole, in the sense that it sprung from a singularity and coughed out all sorts of weird stuff. However, the resemblance of cosmic horizon to blackhole horizons does bear some interesting physical insights.

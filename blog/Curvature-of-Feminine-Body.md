@@ -48,8 +48,8 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 * [Bather (1864)][wab-ba-l]  
 ![][wab-ba-i]
 
-* [Etude de nu pour Vénus (1865)][wab-ednpv-l]  
-![][wab-ednpv-i]
+<!-- * [Etude de nu pour Vénus (1865)][wab-ednpv-l]  
+![][wab-ednpv-i] -->
 
 * [The Nymphaeum (1878)][wab-tn-l]  
 ![][wab-tn-i]
@@ -358,8 +358,8 @@ permalink:   /blog/Curvature-of-Feminine-Body/
 [jww-hatn-l]: https://commons.wikimedia.org/wiki/File:Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg
 [jww-hatn-i]: https://upload.wikimedia.org/wikipedia/commons/b/bd/Waterhouse_Hylas_and_the_Nymphs_Manchester_Art_Gallery_1896.15.jpg
 
-* [Nymphs finding the head of Orpheus: a sketch of the nymph at the left (1900)][jww-nos-l]  
-![][jww-nos-i]
+<!-- * [Nymphs finding the head of Orpheus: a sketch of the nymph at the left (1900)][jww-nos-l]  
+![][jww-nos-i] -->
 
 [jww-nos-i]: https://upload.wikimedia.org/wikipedia/commons/6/6d/John_William_Waterhouse_-_Nymphs_Finding_the_Head_of_Orpheus_(sketch).jpg
 [jww-nos-l]: https://commons.wikimedia.org/wiki/File:John_William_Waterhouse_-_Nymphs_Finding_the_Head_of_Orpheus_(sketch).jpg

@@ -1,0 +1,8 @@
+---
+layout:     post
+title:      life, a metaphor
+date:       2015-11-29 23:07:01
+summary:    
+categories: drawing
+---
+![life, a metaphor](/images/blog/life-a-metaphor.png "I should be writing.")

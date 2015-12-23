@@ -5,4 +5,4 @@ date:       2015-12-23 23:35:40
 summary:    
 categories: drawing
 ---
-![the overheated office](/images/blog/the-overheated-office.png "like a steamer basket")
+![the overheated office](/images/blog/the-overheated-office.png "like an oven")

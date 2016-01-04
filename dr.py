@@ -1,15 +1,17 @@
+'''create a drawing post'''
+
 import re
 from datetime import datetime
 
-def urlify(s):
-	s = re.sub(r"[^\w\s]", '', s)
-	s = re.sub(r"\s+", '-', s)
-	return s
+def urlify(string):
+	string = re.sub(r"[^\w\s]", '', string)
+	string = re.sub(r"\s+", '-', string)
+	return string
 
-title = raw_input('title: ')
-time=str(datetime.now())
+TITLE = raw_input('title: ')
+TIME = str(datetime.now())
 
-content='''---
+CONTENT = '''---
 layout:     post
 title:      %s
 date:       %s
@@ -17,8 +19,8 @@ summary:
 categories: drawing
 ---
 ![%s](/images/diary/%s.png \"\")
-'''%(title, time[:19],title,urlify(title))
+'''%(TITLE, TIME[:19], TITLE, urlify(TITLE))
 
-f = open('_posts/'+time[:10]+'-'+urlify(title)+'.md','w')
-f.write(content)
-f.close
+with open('_posts/'+TIME[:10]+'-'+urlify(TITLE)+'.md', 'w') as flw:
+    flw.write(CONTENT)
+

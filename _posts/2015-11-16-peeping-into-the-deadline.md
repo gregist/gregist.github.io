@@ -5,4 +5,4 @@ date:       2015-11-16 21:36:51
 summary:    
 categories: drawing
 ---
-![peeping into the deadline](/images/blog/peeping-into-the-deadline.png "I see dead people.")
+![peeping into the deadline](/images/_diary/peeping-into-the-deadline.png "I see dead people.")

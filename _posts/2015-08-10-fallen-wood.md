@@ -5,4 +5,4 @@ date:       2015-08-10 21:13:02
 summary:    
 categories: drawing
 ---
-![fallen wood](/images/blog/fallen-wood.png "They are so green.")
+![fallen wood](/images/_diary/fallen-wood.png "They are so green.")

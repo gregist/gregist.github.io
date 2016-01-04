@@ -5,4 +5,4 @@ date:       2015-11-14 21:53:43
 summary:    
 categories: drawing
 ---
-![self portrait 6](/images/blog/self-portrait-6.png "not even frustrated")
+![self portrait 6](/images/_diary/self-portrait-6.png "not even frustrated")

@@ -5,4 +5,4 @@ date:       2015-12-16 23:39:38
 summary:    
 categories: drawing
 ---
-![the little mermaid](/images/blog/the-little-mermaid.png "*")
+![the little mermaid](/images/_diary/the-little-mermaid.png "*")

@@ -5,4 +5,4 @@ date:       2015-08-09 22:42:40
 summary:    
 categories: drawing
 ---
-![the stealing bender](/images/blog/the-stealing-bender.png "A Dream. He was stealing meat.")
+![the stealing bender](/images/_diary/the-stealing-bender.png "A Dream. He was stealing meat.")

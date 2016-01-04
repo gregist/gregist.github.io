@@ -5,4 +5,4 @@ date:       2015-09-19 01:15:41
 summary:    
 categories: drawing
 ---
-![nose existence](/images/blog/nose-existence.png "Nose is linked to the heart.")
+![nose existence](/images/_diary/nose-existence.png "Nose is linked to the heart.")

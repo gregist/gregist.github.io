@@ -5,4 +5,4 @@ date:       2015-10-18 20:13:14
 summary:    
 categories: drawing
 ---
-![self portrait 4](/images/blog/self-portrait-4.png "I need mediation.")
+![self portrait 4](/images/_diary/self-portrait-4.png "I need mediation.")

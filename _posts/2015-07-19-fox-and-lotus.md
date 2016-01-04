@@ -5,4 +5,4 @@ date:       2015-07-19 22:32:29
 summary:    
 categories: drawing
 ---
-![fox and lotus](/images/blog/fox-and-lotus.png "Zen Fox")
+![fox and lotus](/images/_diary/fox-and-lotus.png "Zen Fox")

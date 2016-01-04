@@ -5,4 +5,4 @@ date:       2015-07-14 23:21:40
 summary:    
 categories: drawing
 ---
-![wormhole in bulk](/images/blog/wormhole-in-bulk.png "Suppose that we have a wormhole in the bulk, do we have a boundary correspondence? if so, what will the boundary theory be like?")
+![wormhole in bulk](/images/_diary/wormhole-in-bulk.png "Suppose that we have a wormhole in the bulk, do we have a boundary correspondence? if so, what will the boundary theory be like?")

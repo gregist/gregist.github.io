@@ -5,4 +5,4 @@ date:       2015-12-25 01:34:43
 summary:    
 categories: drawing
 ---
-![Christmas girlfriend](/images/blog/Christmas-girlfriend.png "but she is leaving this country.")
+![Christmas girlfriend](/images/_diary/Christmas-girlfriend.png "but she is leaving this country.")

@@ -5,4 +5,4 @@ date:       2015-11-15 21:52:38
 summary:    
 categories: drawing
 ---
-![the stylist girl](/images/_diary/the-stylist-girl.png "She is cute.")
+![the stylist girl](/images/diary/the-stylist-girl.png "She is cute.")

@@ -5,4 +5,4 @@ date:       2015-11-29 23:07:01
 summary:    
 categories: drawing
 ---
-![life, a metaphor](/images/_diary/life-a-metaphor.png "I should be writing.")
+![life, a metaphor](/images/diary/life-a-metaphor.png "I should be writing.")

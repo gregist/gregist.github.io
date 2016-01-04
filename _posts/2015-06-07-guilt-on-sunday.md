@@ -5,4 +5,4 @@ date:       2015-06-07 23:49:22
 summary:    
 categories: drawing
 ---
-![guilt on sunday](/images/_diary/guilt-on-sunday.png "Waiting to start working, SERIOUSLY.")
+![guilt on sunday](/images/diary/guilt-on-sunday.png "Waiting to start working, SERIOUSLY.")

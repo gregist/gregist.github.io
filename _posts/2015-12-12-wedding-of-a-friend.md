@@ -5,4 +5,4 @@ date:       2015-12-12 13:10:37
 summary:    
 categories: drawing
 ---
-![wedding of a friend](/images/_diary/wedding-of-a-friend.png "xing xi")
+![wedding of a friend](/images/diary/wedding-of-a-friend.png "xing xi")

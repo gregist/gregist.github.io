@@ -5,4 +5,4 @@ date:       2015-10-16 23:34:13
 summary:    
 categories: drawing
 ---
-![depiction of a girl 7](/images/_diary/depiction-of-a-girl-7.png "alienation")
+![depiction of a girl 7](/images/diary/depiction-of-a-girl-7.png "alienation")

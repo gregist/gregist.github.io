@@ -5,4 +5,4 @@ date:       2015-11-25 23:43:01
 summary:    
 categories: drawing
 ---
-![nude portrait 5](/images/_diary/nude-portrait-5.png "frigidity")
+![nude portrait 5](/images/diary/nude-portrait-5.png "frigidity")

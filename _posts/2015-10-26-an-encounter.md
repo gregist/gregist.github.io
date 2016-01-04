@@ -5,4 +5,4 @@ date:       2015-10-26 23:56:17
 summary:    
 categories: drawing
 ---
-![an encounter](/images/_diary/an-encounter.png "raining, dark, and a despaired girl.")
+![an encounter](/images/diary/an-encounter.png "raining, dark, and a despaired girl.")

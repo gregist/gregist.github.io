@@ -5,4 +5,4 @@ date:       2015-10-09 14:26:02
 summary:    
 categories: drawing
 ---
-![cynical lecturer](/images/_diary/cynical-lecturer.png "He is diligent and outspoken.")
+![cynical lecturer](/images/diary/cynical-lecturer.png "He is diligent and outspoken.")

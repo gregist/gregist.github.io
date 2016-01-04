@@ -5,4 +5,4 @@ date:       2015-08-04 22:13:44
 summary:    
 categories: drawing
 ---
-![know thyself](/images/_diary/know-thyself.png "Life is not a lucid dream.")
+![know thyself](/images/diary/know-thyself.png "Life is not a lucid dream.")

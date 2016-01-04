@@ -5,4 +5,4 @@ date:       2015-12-01 22:54:34
 summary:    
 categories: drawing
 ---
-![fire in December](/images/_diary/fire-in-December.png "hope.")
+![fire in December](/images/diary/fire-in-December.png "hope.")

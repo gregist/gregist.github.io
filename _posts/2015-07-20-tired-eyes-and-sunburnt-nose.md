@@ -5,4 +5,4 @@ date:       2015-07-20 18:53:44
 summary:    
 categories: drawing
 ---
-![tired eyes and sunburnt nose](/images/_diary/tired-eyes-and-sunburnt-nose.png "Not feeling creative. FML.")
+![tired eyes and sunburnt nose](/images/diary/tired-eyes-and-sunburnt-nose.png "Not feeling creative. FML.")

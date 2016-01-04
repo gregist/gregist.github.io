@@ -16,7 +16,7 @@ date:       %s
 summary:    
 categories: drawing
 ---
-![%s](/images/blog/%s.png \"\")
+![%s](/images/diary/%s.png \"\")
 '''%(title, time[:19],title,urlify(title))
 
 f = open('_posts/'+time[:10]+'-'+urlify(title)+'.md','w')

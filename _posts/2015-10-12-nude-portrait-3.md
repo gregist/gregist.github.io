@@ -5,4 +5,4 @@ date:       2015-10-12 23:56:33
 summary:    
 categories: drawing
 ---
-![nude portrait 3](/images/_diary/nude-portrait-3.png "fire of my loins.")
+![nude portrait 3](/images/diary/nude-portrait-3.png "fire of my loins.")

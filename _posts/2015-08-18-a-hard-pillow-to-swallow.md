@@ -5,4 +5,4 @@ date:       2015-08-18 20:26:11
 summary:    
 categories: drawing
 ---
-![a hard pillow to swallow](/images/_diary/a-hard-pillow-to-swallow.png "and to digest...")
+![a hard pillow to swallow](/images/diary/a-hard-pillow-to-swallow.png "and to digest...")

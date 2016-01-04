@@ -5,4 +5,4 @@ date:       2015-10-01 21:26:29
 summary:    
 categories: drawing
 ---
-![a talk with self](/images/_diary/a-talk-with-self.png "due")
+![a talk with self](/images/diary/a-talk-with-self.png "due")

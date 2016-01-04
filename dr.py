@@ -4,9 +4,10 @@ import re
 from datetime import datetime
 
 def urlify(string):
-	string = re.sub(r"[^\w\s]", '', string)
-	string = re.sub(r"\s+", '-', string)
-	return string
+    '''urlify'''
+    string = re.sub(r"[^\w\s]", '', string)
+    string = re.sub(r"\s+", '-', string)
+    return string
 
 TITLE = raw_input('title: ')
 TIME = str(datetime.now())

@@ -2,6 +2,7 @@
 
 import re
 from datetime import datetime
+from datetime import timedelta
 
 def urlify(string):
     '''urlify'''
@@ -13,7 +14,11 @@ INPUT = raw_input('title: ').split('|')
 TITLE = INPUT[0]
 CONTEXT = INPUT[1] if len(INPUT)>1 else ''
 
-TIME = str(datetime.now())
+TIME = datetime.now()
+while TITLE[:1]=='`':
+    TIME = TIME - timedelta(hours=24)
+    TITLE=TITLE[1:]
+TIME = str(TIME)
 
 CONTENT = '''---
 layout:     post

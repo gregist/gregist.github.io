@@ -8,9 +8,12 @@ url:         "http://gregist.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
+google_verification:
+# Use either direct GA implementation or set up GTM account
+# - using both will skew your data (leave blank to not use at all)
 google_analytics:
 # UA-63048953-1
-google_verification:
+google_tag_manager:
 
 # Optional features
 animated:             true
@@ -19,6 +22,7 @@ show_post_footers:    false
 show_social_icons:    false
 ajaxify_contact_form: true
 enable_mathjax: true
+extended_fonts: true
 
 # Disqus post comments
 # (leave blank to disable Disqus)

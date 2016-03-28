@@ -5,4 +5,4 @@ date:       2016-03-26 21:31:28
 summary:    
 categories: drawing
 ---
-![hangover and flu](/images/diary/hangover-and-flu.png "")
+![hangover and flu](/images/diary/hangover-and-flu.png "Damn it.")

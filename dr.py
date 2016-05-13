@@ -10,7 +10,7 @@ def urlify(string):
     string = re.sub(r"\s+", '-', string)
     return string
 
-INPUT = raw_input('title: ').split('|')
+INPUT = input('title: ').split('|')
 TITLE = INPUT[0]
 CONTEXT = INPUT[1] if len(INPUT)>1 else ''
 

@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: page
+title: memory
+permalink: /memory/
 ---
-<div class="home">
-    {% for image in site.static_files %}
-        {% if image.path contains 'images/diary' %}
-            <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
-        {% endif %}
-    {% endfor %}
-</div>
+
+{% for image in site.static_files %}
+    {% if image.path contains 'images/diary' %}
+        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+    {% endif %}
+{% endfor %}

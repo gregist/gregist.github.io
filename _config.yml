@@ -24,6 +24,11 @@ show_post_footers:    false
 show_social_icons:    false
 enable_anchorjs: false
 
+# Facebook Page integration
+# (for instant articles and other stuff)
+fb_page: false
+fb_page_id: 
+
 # Disqus post comments
 # (leave blank to disable Disqus)
 # disqus_shortname: gregist

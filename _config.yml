@@ -5,7 +5,8 @@ author:      Grigori Sun
 description: "a personal blog"
 baseurl:     ""
 url:         "http://gregist.github.io"
-date_format: "%b %-d, %Y"
+# date_format: "%b %-d, %Y"
+date_format: "%Y-%m-%d"
 
 # Google services
 google_verification:

@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      oscillator
-date:       2016-11-11 02:29:10
+date:       2016-11-09 02:29:30
 summary:    
 categories: drawing
 ---

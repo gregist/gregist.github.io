@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 CAUTION  
+  
 RESTRICTED AREA  
   
 PLEASE STEP BACK.  
-  
   

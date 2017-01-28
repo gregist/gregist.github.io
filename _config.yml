@@ -110,7 +110,7 @@ permalink:    pretty
 paginate:     7
 paginate_path: "/draw/-w:num/"
 sass:
-  compressed: true
+  style: compressed
 gems:
   - jekyll-paginate
   - jekyll-sitemap

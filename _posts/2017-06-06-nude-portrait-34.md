@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      nude portrait 34
-date:       2017-06-07 00:58:08
+date:       2017-06-06 00:58:30
 summary:    
 categories: drawing
 ---

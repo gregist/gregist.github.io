@@ -7,6 +7,10 @@ baseurl:     ""
 url:         "https://gregist.github.io"
 # date_format: "%b %-d, %Y"
 date_format: "%Y-%m-%d"
+header_pages:
+ - about.md
+ - blog.html
+ - contact.html
 
 # Google services
 google_verification:
@@ -49,6 +53,7 @@ facebook_comments_number: 10
 
 # Social icons
 github_username:
+reddit_username:
 bitbucket_username:
 stackoverflow_id:
 twitter_username:

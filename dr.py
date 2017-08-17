@@ -4,27 +4,36 @@ import re
 from datetime import datetime
 from datetime import timedelta
 
-
+INPUT = input('title: ').split('|')
 def urlify(string):
     '''urlify'''
     string = re.sub(r"[^\w\s]", '', string)
     string = re.sub(r"\s+", '-', string)
     return string
 
-# INPUT = '~2016-07-17|'
-INPUT = input('title: ').split('|')
-TITLE = INPUT[0]
-CONTEXT = INPUT[1] if len(INPUT) > 1 else ''
+# INPUT = '!2016-07-02-motif'.split('|')
+# INPUT = 'motif jdf|test'.split('|')
 
-TIME = datetime.now()
-while TITLE[:1] == '`':
-    TIME = TIME - timedelta(hours=24)
-    TITLE = TITLE[1:]
-TIME = str(TIME)
-
-print(TIME)
-
-CONTENT = '''---
+def generator(input):
+    if input[0][0] == '!':
+        lines = []
+        title = input[0].split('-')[-1]
+        file = '_posts/'+input[0][1:]+'.md'
+        with open(file, 'r') as fr:
+            cont = fr.read()
+        cont = cont.replace(title, title+' 1', 2).replace(title+'.png', title+'-1.png')
+        file = '_posts/'+input[0][1:]+'-1.md'
+        # print([file, cont])
+        return [file, cont]
+    else:
+        title = input[0]
+        context = input[1] if len(input) > 1 else ''
+        time = datetime.now()
+        while title[0] == '`':
+            time = time - timedelta(hours=24)
+            title = title[1:]
+        time = str(time)
+        cont = '''---
 layout:     post
 title:      %s
 date:       %s
@@ -32,7 +41,28 @@ summary:
 categories: drawing
 ---
 ![%s](/images/diary/%s.png \"%s\")
-''' % (TITLE, TIME[:19], TITLE, urlify(TITLE), CONTEXT)
+''' % (title, time[:19], title, urlify(title), context)
+        file = '_posts/'+time[:10]+'-'+urlify(title)+'.md'
+        # print([file, cont])
+        return [file, cont]
 
-with open('_posts/'+TIME[:10]+'-'+urlify(TITLE)+'.md', 'w') as flw:
-    flw.write(CONTENT)
+para = generator(INPUT)
+
+with open(para[0], 'w') as fw:
+    fw.write(para[1])
+    print('done!')
+
+
+
+# # INPUT = '~2016-07-17|'
+# INPUT = input('title: ').split('|')
+# TITLE = INPUT[0]
+# CONTEXT = INPUT[1] if len(INPUT) > 1 else ''
+
+# TIME = datetime.now()
+
+
+# print(TIME)
+
+
+

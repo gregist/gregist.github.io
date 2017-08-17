@@ -22,9 +22,9 @@ def generator(input):
         with open(file, 'r') as fr:
             cont = fr.read()
         cont = cont.replace(title, title+' 1', 2).replace(title+'.png', title+'-1.png')
-        file = '_posts/'+input[0][1:]+'-1.md'
-        # print([file, cont])
-        return [file, cont]
+        file1 = '_posts/'+input[0][1:]+'-1.md'
+        print(file+'>>>'+file1)
+        return [file1, cont]
     else:
         title = input[0]
         context = input[1] if len(input) > 1 else ''
@@ -43,7 +43,7 @@ categories: drawing
 ![%s](/images/diary/%s.png \"%s\")
 ''' % (title, time[:19], title, urlify(title), context)
         file = '_posts/'+time[:10]+'-'+urlify(title)+'.md'
-        # print([file, cont])
+        print('>>>'+file)
         return [file, cont]
 
 para = generator(INPUT)

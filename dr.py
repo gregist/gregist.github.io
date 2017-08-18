@@ -50,19 +50,4 @@ para = generator(INPUT)
 
 with open(para[0], 'w') as fw:
     fw.write(para[1])
-    print('done!')
-
-
-
-# # INPUT = '~2016-07-17|'
-# INPUT = input('title: ').split('|')
-# TITLE = INPUT[0]
-# CONTEXT = INPUT[1] if len(INPUT) > 1 else ''
-
-# TIME = datetime.now()
-
-
-# print(TIME)
-
-
-
+    # print('done!')

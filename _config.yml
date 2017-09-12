@@ -124,7 +124,7 @@ paginate:     7
 paginate_path: "/-w:num/"
 sass:
   style: compressed
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from

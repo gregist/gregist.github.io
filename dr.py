@@ -27,7 +27,7 @@ def generator(input):
         return [file1, cont]
     else:
         title = input[0]
-        context = input[1] if len(input) > 1 else ''
+        context = input[1] if len(input) > 1 else '.'
         time = datetime.now()
         while title[0] == '`':
             time = time - timedelta(hours=24)

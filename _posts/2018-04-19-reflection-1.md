@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      reflection
+title:      reflection 1
 date:       2018-04-19 22:45:14
 summary:    
 categories: drawing
 ---
-![reflection](/images/diary/reflection.png ".")
+![reflection 1](/images/diary/reflection-1.png ".")

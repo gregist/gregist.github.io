@@ -34,10 +34,6 @@ layout: default
   {% include post_footer.html %}
 {% endif %}
 
-{% if txtpen.txtpen_sitename %}
-  <script src="https://txtpen.com/embed.js?site={{txtpen.txtpen_sitename}}" />
-{% endif %}
-
 {% if site.disqus_shortname %}
   <div id="disqus_thread"></div>
   <script type="text/javascript">
@@ -62,7 +58,7 @@ layout: default
   <h3 class="related-post-title">{{ site.text.post.related_posts }}</h3>
   {% for post in site.related_posts %}
     <div class="post ml2">
-      <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
+      <a href="{{ post.url | relative_url }}" class="post-link">
         <h4 class="post-title">{{ post.title }}</h4>
         <p class="post-summary">{{ post.summary }}</p>
       </a>

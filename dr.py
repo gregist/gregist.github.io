@@ -19,8 +19,8 @@ def generator(input):
         lines = []
         title = input[0].split('-')[-1]
         file = '_posts/'+input[0][1:]+'.md'
-        with open(file, 'r') as fr:
-            cont = fr.read()
+        with open(file, 'rb') as fr:
+            cont = fr.read().decode()
         cont = cont.replace(title, title+' 1', 2).replace(title+'.png', title+'-1.png')
         file1 = '_posts/'+input[0][1:]+'-1.md'
         print(file+'>>>'+file1)
@@ -48,6 +48,6 @@ categories: drawing
 
 para = generator(INPUT)
 
-with open(para[0], 'w') as fw:
-    fw.write(para[1])
+with open(para[0], 'wb') as fw:
+    fw.write(para[1].encode())
     # print('done!')

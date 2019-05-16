@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      self portrait 60
-date:       2019-05-15 00:00:50
+date:       2019-05-14 00:04:24
 summary:    
 categories: drawing
 ---

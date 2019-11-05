@@ -6,7 +6,7 @@ def urlify(s):
 	s = re.sub(r"\s+", '-', s)
 	return s
 
-title = raw_input('title: ')
+title = input('title: ')
 time=str(datetime.now())
 
 content='''---

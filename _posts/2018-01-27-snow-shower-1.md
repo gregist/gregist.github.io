@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      snow shower
+title:      snow shower 1
 date:       2018-01-27 22:51:26
 summary:    
 categories: drawing
 ---
-![snow shower](/images/diary/snow-shower.png ".")
+![snow shower 1](/images/diary/snow-shower-1.png ".")
